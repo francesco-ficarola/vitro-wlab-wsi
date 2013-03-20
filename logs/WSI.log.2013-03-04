@@ -1,0 +1,25 @@
+2013-03-07 17:57:30,761 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 14885, #Options: 1
+2013-03-07 17:57:30,929 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-03-07 17:57:30,930 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 14885
+2013-03-07 17:57:30,935 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2013-03-07 17:57:30,936 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-03-07 17:57:30,947 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 14886, #Options: 1
+2013-03-07 17:57:31,249 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-03-07 17:57:31,249 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 14886
+2013-03-07 17:57:31,250 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2013-03-07 17:57:31,250 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-03-07 17:57:31,257 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 14887, #Options: 1
+2013-03-07 17:57:31,391 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-03-07 17:57:31,392 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 14887
+2013-03-07 17:57:31,392 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2013-03-07 17:57:31,392 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-03-07 17:58:34,657 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 14888, #Options: 1
+2013-03-07 17:58:34,739 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-03-07 17:58:34,739 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 14888
+2013-03-07 17:58:34,740 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2013-03-07 17:58:34,740 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-03-07 17:58:34,743 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 14889, #Options: 1
+2013-03-07 17:58:35,054 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-03-07 17:58:35,055 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 14889
+2013-03-07 17:58:35,055 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2013-03-07 17:58:35,055 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1

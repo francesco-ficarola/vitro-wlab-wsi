@@ -1,0 +1,117 @@
+2012-11-16 10:34:11,927 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 12257, #Options: 1
+2012-11-16 10:34:12,047 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:34:12,047 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 12257
+2012-11-16 10:34:12,052 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 10:34:12,052 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:34:12,061 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 12258, #Options: 1
+2012-11-16 10:34:12,379 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:34:12,380 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 12258
+2012-11-16 10:34:12,381 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:34:12,381 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:34:12,388 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 12259, #Options: 1
+2012-11-16 10:34:12,573 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:34:12,573 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 12259
+2012-11-16 10:34:12,573 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:34:12,574 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:43:15,240 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 34177, #Options: 1
+2012-11-16 10:43:15,356 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:43:15,357 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 34177
+2012-11-16 10:43:15,362 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 10:43:15,362 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:43:15,366 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 34178, #Options: 1
+2012-11-16 10:43:15,703 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:43:15,704 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 34178
+2012-11-16 10:43:15,705 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:43:15,705 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:43:15,712 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 34179, #Options: 1
+2012-11-16 10:43:15,998 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:43:15,998 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 34179
+2012-11-16 10:43:15,998 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:43:15,999 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:43:54,626 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 45930, #Options: 1
+2012-11-16 10:43:54,695 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:43:54,696 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 45930
+2012-11-16 10:43:54,700 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 10:43:54,702 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:43:54,707 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 45931, #Options: 1
+2012-11-16 10:43:54,840 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:43:54,841 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 45931
+2012-11-16 10:43:54,841 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:43:54,842 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:30,327 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 20903, #Options: 1
+2012-11-16 10:44:30,393 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:30,393 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 20903
+2012-11-16 10:44:30,400 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 10:44:30,400 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:30,405 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 20904, #Options: 1
+2012-11-16 10:44:30,697 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:30,697 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 20904
+2012-11-16 10:44:30,698 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:44:30,698 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:30,705 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 20905, #Options: 1
+2012-11-16 10:44:30,844 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:30,844 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 20905
+2012-11-16 10:44:30,844 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:44:30,844 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:35,909 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 21994, #Options: 1
+2012-11-16 10:44:36,229 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:36,230 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 21994
+2012-11-16 10:44:36,242 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 10:44:36,243 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:36,248 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 21995, #Options: 1
+2012-11-16 10:44:36,562 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:36,563 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 21995
+2012-11-16 10:44:36,563 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:44:36,563 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 10:44:36,568 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 21996, #Options: 1
+2012-11-16 10:44:36,727 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 10:44:36,728 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 21996
+2012-11-16 10:44:36,728 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 10:44:36,729 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 11:56:53,481 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 28426, #Options: 1
+2012-11-16 11:57:27,822 WARN  [WSIAdapterCoap.java:156] - Connection failed: server is not reachable
+2012-11-16 12:00:20,617 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 3671, #Options: 1
+2012-11-16 12:00:20,707 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:00:20,707 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 3671
+2012-11-16 12:00:20,727 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 12:00:20,727 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:00:20,759 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 3672, #Options: 1
+2012-11-16 12:00:21,061 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:00:21,062 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 3672
+2012-11-16 12:00:21,062 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 12:00:21,062 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:00:21,068 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 3673, #Options: 1
+2012-11-16 12:00:21,199 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:00:21,200 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 3673
+2012-11-16 12:00:21,200 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 12:00:21,200 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:01:31,492 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 27972, #Options: 1
+2012-11-16 12:01:31,573 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:01:31,574 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 27972
+2012-11-16 12:01:31,579 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 12:01:31,579 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:01:31,584 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 27973, #Options: 1
+2012-11-16 12:01:31,723 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:01:31,724 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 27973
+2012-11-16 12:01:31,724 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 12:01:31,724 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:07:02,179 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 36235, #Options: 1
+2012-11-16 12:07:02,251 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:07:02,251 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 36235
+2012-11-16 12:07:02,255 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 12:07:02,255 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 12:07:02,261 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 36236, #Options: 1
+2012-11-16 12:07:02,399 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 12:07:02,400 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 36236
+2012-11-16 12:07:02,400 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 12:07:02,400 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 14:51:50,485 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 58805, #Options: 1
+2012-11-16 14:51:50,572 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 14:51:50,573 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 58805
+2012-11-16 14:51:50,580 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2012-11-16 14:51:50,581 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102
+2012-11-16 14:51:50,592 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 58806, #Options: 1
+2012-11-16 14:51:50,734 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2012-11-16 14:51:50,734 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 58806
+2012-11-16 14:51:50,735 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2012-11-16 14:51:50,735 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: wiserver.dis.uniroma1.it/151.100.59.102

@@ -1,0 +1,12 @@
+2012-07-04 12:37:48,856 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 56962, #Options: 1
+2012-07-04 12:37:48,984 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 56963, #Options: 1
+2012-07-04 12:37:49,102 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 56964, #Options: 1
+2012-07-04 12:37:49,228 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 56965, #Options: 1
+2012-07-04 20:06:25,902 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 17009, #Options: 1
+2012-07-04 20:06:26,043 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 17010, #Options: 1
+2012-07-04 20:06:26,165 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 17011, #Options: 1
+2012-07-04 20:06:26,289 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 17012, #Options: 1
+2012-07-04 20:10:58,006 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 7544, #Options: 1
+2012-07-04 20:11:01,122 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 7545, #Options: 1
+2012-07-04 20:11:01,278 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 7546, #Options: 1
+2012-07-04 20:11:01,442 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 7547, #Options: 1

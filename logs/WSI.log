@@ -1,0 +1,1033 @@
+2013-03-13 10:58:54,677 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29371#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 10:58:54,677 INFO  [WSIAdapterCoap.java:375] - Sent Request: 29371#fec0:0:0:2::1#1#wkc
+2013-03-13 10:58:57,526 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29371#1#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 10:58:57,528 INFO  [DTNResponder.java:44] - DTN response: 29371#fec0:0:0:2::1#2#wkc*st*sh
+2013-03-13 10:58:57,529 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 29371
+2013-03-13 10:58:57,530 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 10:58:57,536 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 10:58:57,536 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 10:58:57,638 INFO  [WSIAdapterCoap.java:396] - Sent Request: 9934#fec0:0:0:2::1#1#st
+2013-03-13 10:58:57,638 INFO  [ProxyUdpForwarder.java:94] - DTN message: 9934#fec0:0:0:2::1#1#st - from: 127.0.0.1
+2013-03-13 10:59:01,435 INFO  [ProxyUdpForwarder.java:94] - DTN message: 9934#1#2#st*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 10:59:01,436 INFO  [DTNResponder.java:44] - DTN response: 9934#fec0:0:0:2::1#2#st*0
+2013-03-13 10:59:01,437 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 9934
+2013-03-13 10:59:01,437 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 10:59:01,438 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 10:59:01,438 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*0
+2013-03-13 10:59:01,459 INFO  [WSIAdapterCoap.java:396] - Sent Request: 42470#fec0:0:0:2::1#1#sh
+2013-03-13 10:59:01,459 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42470#fec0:0:0:2::1#1#sh - from: 127.0.0.1
+2013-03-13 10:59:05,344 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42470#1#2#sh*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 10:59:05,346 INFO  [DTNResponder.java:44] - DTN response: 42470#fec0:0:0:2::1#2#sh*0
+2013-03-13 10:59:05,347 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 42470
+2013-03-13 10:59:05,347 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 10:59:05,353 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 10:59:05,353 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*0
+2013-03-13 11:01:58,372 INFO  [ProxyUdpForwarder.java:94] - DTN message: 60721#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:01:58,372 INFO  [WSIAdapterCoap.java:375] - Sent Request: 60721#fec0:0:0:2::1#1#wkc
+2013-03-13 11:05:20,722 INFO  [WSIAdapterCoap.java:375] - Sent Request: 35312#fec0:0:0:2::1#1#wkc
+2013-03-13 11:05:20,722 INFO  [ProxyUdpForwarder.java:94] - DTN message: 35312#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:08:38,896 INFO  [WSIAdapterCoap.java:375] - Sent Request: 17575#fec0:0:0:2::1#1#wkc
+2013-03-13 11:08:38,896 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17575#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:08:39,188 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17575#1#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:08:39,190 INFO  [DTNResponder.java:44] - DTN response: 17575#fec0:0:0:2::1#2#wkc*st*sh
+2013-03-13 11:08:39,190 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 17575
+2013-03-13 11:08:39,191 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:08:39,197 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:08:39,198 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 11:08:39,262 INFO  [WSIAdapterCoap.java:396] - Sent Request: 34842#fec0:0:0:2::1#1#st
+2013-03-13 11:08:39,262 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34842#fec0:0:0:2::1#1#st - from: 127.0.0.1
+2013-03-13 11:08:43,095 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34842#1#2#st*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:08:43,097 INFO  [DTNResponder.java:44] - DTN response: 34842#fec0:0:0:2::1#2#st*0
+2013-03-13 11:08:43,097 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 34842
+2013-03-13 11:08:43,098 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:08:43,098 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:08:43,099 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*0
+2013-03-13 11:08:43,124 INFO  [WSIAdapterCoap.java:396] - Sent Request: 5796#fec0:0:0:2::1#1#sh
+2013-03-13 11:08:43,124 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5796#fec0:0:0:2::1#1#sh - from: 127.0.0.1
+2013-03-13 11:08:46,999 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5796#1#2#sh*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:08:47,001 INFO  [DTNResponder.java:44] - DTN response: 5796#fec0:0:0:2::1#2#sh*0
+2013-03-13 11:08:47,002 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 5796
+2013-03-13 11:08:47,002 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:08:47,008 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:08:47,009 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*0
+2013-03-13 11:09:43,544 INFO  [WSIAdapterCoap.java:375] - Sent Request: 25872#fec0:0:0:2::1#1#wkc
+2013-03-13 11:09:43,545 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25872#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:09:45,600 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25872#1#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:09:45,602 INFO  [DTNResponder.java:44] - DTN response: 25872#fec0:0:0:2::1#2#wkc*st*sh
+2013-03-13 11:09:45,602 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 25872
+2013-03-13 11:09:45,602 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:09:45,603 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:09:45,603 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 11:09:45,604 INFO  [WSIAdapterCoap.java:396] - Sent Request: 5033#fec0:0:0:2::1#1#st
+2013-03-13 11:09:45,604 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5033#fec0:0:0:2::1#1#st - from: 127.0.0.1
+2013-03-13 11:09:49,501 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5033#1#2#st*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:09:49,503 INFO  [DTNResponder.java:44] - DTN response: 5033#fec0:0:0:2::1#2#st*0
+2013-03-13 11:09:49,503 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 5033
+2013-03-13 11:09:49,504 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:09:49,504 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:09:49,504 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*0
+2013-03-13 11:09:49,505 INFO  [WSIAdapterCoap.java:396] - Sent Request: 36239#fec0:0:0:2::1#1#sh
+2013-03-13 11:09:49,505 INFO  [ProxyUdpForwarder.java:94] - DTN message: 36239#fec0:0:0:2::1#1#sh - from: 127.0.0.1
+2013-03-13 11:09:53,409 INFO  [ProxyUdpForwarder.java:94] - DTN message: 36239#1#2#sh*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 11:09:53,411 INFO  [DTNResponder.java:44] - DTN response: 36239#fec0:0:0:2::1#2#sh*0
+2013-03-13 11:09:53,411 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 36239
+2013-03-13 11:09:53,412 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 11:09:53,412 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 11:09:53,412 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*0
+2013-03-13 11:18:51,178 INFO  [WSIAdapterCoap.java:375] - Sent Request: 44497#fec0:0:0:2::1#1#wkc
+2013-03-13 11:18:51,179 INFO  [ProxyUdpForwarder.java:94] - DTN message: 44497#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:20:19,484 INFO  [ProxyUdpForwarder.java:94] - DTN message: 14151#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:20:19,484 INFO  [WSIAdapterCoap.java:375] - Sent Request: 14151#fec0:0:0:2::1#1#wkc
+2013-03-13 11:22:36,378 INFO  [ProxyUdpForwarder.java:94] - DTN message: 21801#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:22:36,377 INFO  [WSIAdapterCoap.java:375] - Sent Request: 21801#fec0:0:0:2::1#1#wkc
+2013-03-13 11:27:06,647 INFO  [WSIAdapterCoap.java:375] - Sent Request: 7277#fec0:0:0:2::1#1#wkc
+2013-03-13 11:27:06,647 INFO  [ProxyUdpForwarder.java:94] - DTN message: 7277#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:30:00,421 INFO  [WSIAdapterCoap.java:375] - Sent Request: 44586#fec0:0:0:2::1#1#wkc
+2013-03-13 11:30:00,421 INFO  [ProxyUdpForwarder.java:94] - DTN message: 44586#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:49:15,085 INFO  [WSIAdapterCoap.java:375] - Sent Request: 23475#fec0:0:0:2::1#1#wkc
+2013-03-13 11:49:15,085 INFO  [ProxyUdpForwarder.java:94] - DTN message: 23475#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:51:41,947 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17892#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:51:41,948 INFO  [WSIAdapterCoap.java:375] - Sent Request: 17892#fec0:0:0:2::1#1#wkc
+2013-03-13 11:56:34,599 INFO  [ProxyUdpForwarder.java:94] - DTN message: 35306#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 11:56:34,599 INFO  [WSIAdapterCoap.java:375] - Sent Request: 35306#fec0:0:0:2::1#1#wkc
+2013-03-13 12:00:17,729 INFO  [WSIAdapterCoap.java:375] - Sent Request: 42436#fec0:0:0:2::1#1#wkc
+2013-03-13 12:00:17,729 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42436#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 12:03:48,068 INFO  [ProxyUdpForwarder.java:94] - DTN message: 7114#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 12:03:48,068 INFO  [WSIAdapterCoap.java:375] - Sent Request: 7114#fec0:0:0:2::1#1#wkc
+2013-03-13 12:06:41,330 INFO  [WSIAdapterCoap.java:375] - Sent Request: 9280#fec0:0:0:2::1#1#wkc
+2013-03-13 12:06:41,330 INFO  [ProxyUdpForwarder.java:94] - DTN message: 9280#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 12:11:57,119 INFO  [WSIAdapterCoap.java:375] - Sent Request: 63733#fec0:0:0:2::1#1#wkc
+2013-03-13 12:11:57,119 INFO  [ProxyUdpForwarder.java:94] - DTN message: 63733#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 12:11:59,224 INFO  [ProxyUdpForwarder.java:94] - DTN message: 63733#1#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:11:59,226 INFO  [DTNResponder.java:44] - DTN response: 63733#fec0:0:0:2::1#2#wkc*st*sh
+2013-03-13 12:11:59,227 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 63733
+2013-03-13 12:11:59,227 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:11:59,233 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:11:59,234 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:11:59,320 INFO  [WSIAdapterCoap.java:396] - Sent Request: 20918#fec0:0:0:2::1#1#st
+2013-03-13 12:11:59,320 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20918#fec0:0:0:2::1#1#st - from: 127.0.0.1
+2013-03-13 12:12:03,128 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20918#1#2#st*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:12:03,129 INFO  [DTNResponder.java:44] - DTN response: 20918#fec0:0:0:2::1#2#st*0
+2013-03-13 12:12:03,130 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 20918
+2013-03-13 12:12:03,130 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:12:03,130 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:12:03,131 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*0
+2013-03-13 12:12:03,157 INFO  [WSIAdapterCoap.java:396] - Sent Request: 42287#fec0:0:0:2::1#1#sh
+2013-03-13 12:12:03,157 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42287#fec0:0:0:2::1#1#sh - from: 127.0.0.1
+2013-03-13 12:12:07,039 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42287#1#2#sh*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:12:07,042 INFO  [DTNResponder.java:44] - DTN response: 42287#fec0:0:0:2::1#2#sh*0
+2013-03-13 12:12:07,042 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 42287
+2013-03-13 12:12:07,043 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:12:07,048 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:12:07,049 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*0
+2013-03-13 12:14:10,687 INFO  [WSIAdapterCoap.java:375] - Sent Request: 59988#fec0:0:0:2::1#1#wkc
+2013-03-13 12:14:10,687 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59988#fec0:0:0:2::1#1#wkc - from: 127.0.0.1
+2013-03-13 12:14:11,283 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59988#1#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:14:11,286 INFO  [DTNResponder.java:44] - DTN response: 59988#fec0:0:0:2::1#2#wkc*st*sh
+2013-03-13 12:14:11,287 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 59988
+2013-03-13 12:14:11,288 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:14:11,296 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:14:11,296 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:14:11,301 INFO  [WSIAdapterCoap.java:396] - Sent Request: 13225#fec0:0:0:2::1#1#st
+2013-03-13 12:14:11,301 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13225#fec0:0:0:2::1#1#st - from: 127.0.0.1
+2013-03-13 12:14:15,190 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13225#1#2#st*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:14:15,191 INFO  [DTNResponder.java:44] - DTN response: 13225#fec0:0:0:2::1#2#st*0
+2013-03-13 12:14:15,192 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 13225
+2013-03-13 12:14:15,192 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:14:15,193 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:14:15,193 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*0
+2013-03-13 12:14:15,197 INFO  [WSIAdapterCoap.java:396] - Sent Request: 62369#fec0:0:0:2::1#1#sh
+2013-03-13 12:14:15,197 INFO  [ProxyUdpForwarder.java:94] - DTN message: 62369#fec0:0:0:2::1#1#sh - from: 127.0.0.1
+2013-03-13 12:14:19,094 INFO  [ProxyUdpForwarder.java:94] - DTN message: 62369#1#2#sh*0 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:14:19,097 INFO  [DTNResponder.java:44] - DTN response: 62369#fec0:0:0:2::1#2#sh*0
+2013-03-13 12:14:19,098 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 62369
+2013-03-13 12:14:19,098 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::1
+2013-03-13 12:14:19,104 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:14:19,104 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*0
+2013-03-13 12:14:23,948 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29743#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:14:23,950 INFO  [WSIAdapterCoap.java:375] - Sent Request: 29743#fec0:0:0:2::2#1#wkc
+2013-03-13 12:14:54,244 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29743#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:14:54,246 INFO  [DTNResponder.java:44] - DTN response: 29743#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:14:54,247 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 29743
+2013-03-13 12:14:54,247 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:14:54,255 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:14:54,255 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:14:54,265 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15230#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:14:54,265 INFO  [WSIAdapterCoap.java:396] - Sent Request: 15230#fec0:0:0:2::2#1#st
+2013-03-13 12:15:25,495 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15230#2#2#st*6654 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:15:25,496 INFO  [DTNResponder.java:44] - DTN response: 15230#fec0:0:0:2::2#2#st*6654
+2013-03-13 12:15:25,497 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 15230
+2013-03-13 12:15:25,497 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:15:25,498 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:15:25,498 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*6654
+2013-03-13 12:15:25,501 INFO  [WSIAdapterCoap.java:396] - Sent Request: 40550#fec0:0:0:2::2#1#sh
+2013-03-13 12:15:25,501 INFO  [ProxyUdpForwarder.java:94] - DTN message: 40550#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:15:52,841 INFO  [ProxyUdpForwarder.java:94] - DTN message: 40550#2#2#sh*1324 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:15:52,842 INFO  [DTNResponder.java:44] - DTN response: 40550#fec0:0:0:2::2#2#sh*1324
+2013-03-13 12:15:52,843 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 40550
+2013-03-13 12:15:52,843 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:15:52,849 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:15:52,849 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1324
+2013-03-13 12:16:29,639 INFO  [WSIAdapterCoap.java:375] - Sent Request: 29574#fec0:0:0:2::2#1#wkc
+2013-03-13 12:16:29,639 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29574#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:16:51,437 INFO  [ProxyUdpForwarder.java:94] - DTN message: 29574#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:16:51,439 INFO  [DTNResponder.java:44] - DTN response: 29574#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:16:51,439 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 29574
+2013-03-13 12:16:51,440 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:16:51,440 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:16:51,440 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:16:51,442 INFO  [WSIAdapterCoap.java:396] - Sent Request: 48465#fec0:0:0:2::2#1#st
+2013-03-13 12:16:51,442 INFO  [ProxyUdpForwarder.java:94] - DTN message: 48465#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:17:22,684 INFO  [ProxyUdpForwarder.java:94] - DTN message: 48465#2#2#st*6602 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:17:22,689 INFO  [DTNResponder.java:44] - DTN response: 48465#fec0:0:0:2::2#2#st*6602
+2013-03-13 12:17:22,690 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 48465
+2013-03-13 12:17:22,690 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:17:22,690 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:17:22,690 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*6602
+2013-03-13 12:17:22,691 INFO  [WSIAdapterCoap.java:396] - Sent Request: 4051#fec0:0:0:2::2#1#sh
+2013-03-13 12:17:22,692 INFO  [ProxyUdpForwarder.java:94] - DTN message: 4051#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:17:50,449 INFO  [ProxyUdpForwarder.java:94] - DTN message: 4051#2#2#sh*1339 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:17:50,450 INFO  [DTNResponder.java:44] - DTN response: 4051#fec0:0:0:2::2#2#sh*1339
+2013-03-13 12:17:50,451 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 4051
+2013-03-13 12:17:50,451 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:17:50,451 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:17:50,452 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1339
+2013-03-13 12:47:35,591 INFO  [WSIAdapterCoap.java:464] - Sent Request: CON, GET, MsgId: 38960, #Options: 1
+2013-03-13 12:47:35,598 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 38960, #Options: 1
+2013-03-13 12:47:35,696 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 12:47:35,696 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 38960
+2013-03-13 12:47:35,704 INFO  [WSIAdapterCoap.java:515] - Content Type: link_format
+2013-03-13 12:47:35,704 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 12:47:35,716 INFO  [WSIAdapterCoap.java:485] - Sent Request: CON, GET, MsgId: 38961, #Options: 1
+2013-03-13 12:47:35,716 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 38961, #Options: 1
+2013-03-13 12:47:36,007 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 12:47:36,007 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 38961
+2013-03-13 12:47:36,007 INFO  [WSIAdapterCoap.java:515] - Content Type: octet_stream
+2013-03-13 12:47:36,007 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 12:47:36,011 INFO  [WSIAdapterCoap.java:485] - Sent Request: CON, GET, MsgId: 38962, #Options: 1
+2013-03-13 12:47:36,012 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 38962, #Options: 1
+2013-03-13 12:47:36,146 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 12:47:36,147 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 38962
+2013-03-13 12:47:36,148 INFO  [WSIAdapterCoap.java:515] - Content Type: octet_stream
+2013-03-13 12:47:36,148 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 12:47:48,460 INFO  [ProxyUdpForwarder.java:94] - DTN message: 36108#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:47:48,461 INFO  [WSIAdapterCoap.java:375] - Sent Request: 36108#fec0:0:0:2::2#1#wkc
+2013-03-13 12:47:50,619 INFO  [ProxyUdpForwarder.java:94] - DTN message: 36108#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:47:50,621 INFO  [DTNResponder.java:44] - DTN response: 36108#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:47:50,621 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 36108
+2013-03-13 12:47:50,622 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:47:50,628 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:47:50,628 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:47:50,635 INFO  [WSIAdapterCoap.java:396] - Sent Request: 51125#fec0:0:0:2::2#1#st
+2013-03-13 12:47:50,635 INFO  [ProxyUdpForwarder.java:94] - DTN message: 51125#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:47:54,524 INFO  [ProxyUdpForwarder.java:94] - DTN message: 51125#2#2#st*6771 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:47:54,526 INFO  [DTNResponder.java:44] - DTN response: 51125#fec0:0:0:2::2#2#st*6771
+2013-03-13 12:47:54,526 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 51125
+2013-03-13 12:47:54,526 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:47:54,526 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:47:54,526 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*6771
+2013-03-13 12:47:54,527 INFO  [WSIAdapterCoap.java:396] - Sent Request: 6966#fec0:0:0:2::2#1#sh
+2013-03-13 12:47:54,528 INFO  [ProxyUdpForwarder.java:94] - DTN message: 6966#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:47:58,428 INFO  [ProxyUdpForwarder.java:94] - DTN message: 6966#2#2#sh*1347 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:47:58,429 INFO  [DTNResponder.java:44] - DTN response: 6966#fec0:0:0:2::2#2#sh*1347
+2013-03-13 12:47:58,430 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 6966
+2013-03-13 12:47:58,430 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:47:58,436 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:47:58,436 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1347
+2013-03-13 12:51:58,969 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34544#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:51:58,972 INFO  [WSIAdapterCoap.java:375] - Sent Request: 34544#fec0:0:0:2::2#1#wkc
+2013-03-13 12:52:04,923 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34544#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:52:04,925 INFO  [DTNResponder.java:44] - DTN response: 34544#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:52:04,925 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 34544
+2013-03-13 12:52:04,926 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:52:04,932 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:52:04,932 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:52:04,940 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25252#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:52:04,941 INFO  [WSIAdapterCoap.java:396] - Sent Request: 25252#fec0:0:0:2::2#1#st
+2013-03-13 12:52:08,828 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25252#2#2#st*7227 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:52:08,829 INFO  [DTNResponder.java:44] - DTN response: 25252#fec0:0:0:2::2#2#st*7227
+2013-03-13 12:52:08,830 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 25252
+2013-03-13 12:52:08,830 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:52:08,831 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:52:08,831 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*7227
+2013-03-13 12:52:08,833 INFO  [WSIAdapterCoap.java:396] - Sent Request: 43631#fec0:0:0:2::2#1#sh
+2013-03-13 12:52:08,834 INFO  [ProxyUdpForwarder.java:94] - DTN message: 43631#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:52:12,737 INFO  [ProxyUdpForwarder.java:94] - DTN message: 43631#2#2#sh*1312 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:52:12,738 INFO  [DTNResponder.java:44] - DTN response: 43631#fec0:0:0:2::2#2#sh*1312
+2013-03-13 12:52:12,738 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 43631
+2013-03-13 12:52:12,739 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:52:12,744 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:52:12,745 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1312
+2013-03-13 12:55:28,569 INFO  [ProxyUdpForwarder.java:94] - DTN message: 51032#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:55:28,569 INFO  [WSIAdapterCoap.java:375] - Sent Request: 51032#fec0:0:0:2::2#1#wkc
+2013-03-13 12:55:32,540 INFO  [ProxyUdpForwarder.java:94] - DTN message: 51032#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:55:32,542 INFO  [DTNResponder.java:44] - DTN response: 51032#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:55:32,542 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 51032
+2013-03-13 12:55:32,543 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:55:32,549 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:55:32,549 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:55:32,554 INFO  [WSIAdapterCoap.java:396] - Sent Request: 11979#fec0:0:0:2::2#1#st
+2013-03-13 12:55:32,554 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11979#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:55:36,450 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11979#2#2#st*6683 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:55:36,451 INFO  [DTNResponder.java:44] - DTN response: 11979#fec0:0:0:2::2#2#st*6683
+2013-03-13 12:55:36,452 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 11979
+2013-03-13 12:55:36,452 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:55:36,453 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:55:36,453 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*6683
+2013-03-13 12:55:36,455 INFO  [WSIAdapterCoap.java:396] - Sent Request: 55518#fec0:0:0:2::2#1#sh
+2013-03-13 12:55:36,456 INFO  [ProxyUdpForwarder.java:94] - DTN message: 55518#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:55:40,353 INFO  [ProxyUdpForwarder.java:94] - DTN message: 55518#2#2#sh*1365 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:55:40,355 INFO  [DTNResponder.java:44] - DTN response: 55518#fec0:0:0:2::2#2#sh*1365
+2013-03-13 12:55:40,356 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 55518
+2013-03-13 12:55:40,356 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:55:40,362 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:55:40,362 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1365
+2013-03-13 12:56:52,834 INFO  [WSIAdapterCoap.java:375] - Sent Request: 59308#fec0:0:0:2::2#1#wkc
+2013-03-13 12:56:52,834 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59308#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 12:56:58,491 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59308#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:56:58,493 INFO  [DTNResponder.java:44] - DTN response: 59308#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 12:56:58,493 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 59308
+2013-03-13 12:56:58,494 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:56:58,494 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:56:58,494 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 12:56:58,495 INFO  [WSIAdapterCoap.java:396] - Sent Request: 30347#fec0:0:0:2::2#1#st
+2013-03-13 12:56:58,495 INFO  [ProxyUdpForwarder.java:94] - DTN message: 30347#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 12:57:02,395 INFO  [ProxyUdpForwarder.java:94] - DTN message: 30347#2#2#st*6942 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:57:02,396 INFO  [DTNResponder.java:44] - DTN response: 30347#fec0:0:0:2::2#2#st*6942
+2013-03-13 12:57:02,396 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 30347
+2013-03-13 12:57:02,397 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:57:02,397 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:57:02,397 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*6942
+2013-03-13 12:57:02,399 INFO  [WSIAdapterCoap.java:396] - Sent Request: 2557#fec0:0:0:2::2#1#sh
+2013-03-13 12:57:02,399 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2557#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 12:57:06,298 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2557#2#2#sh*2140 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 12:57:06,300 INFO  [DTNResponder.java:44] - DTN response: 2557#fec0:0:0:2::2#2#sh*2140
+2013-03-13 12:57:06,300 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 2557
+2013-03-13 12:57:06,301 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 12:57:06,301 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 12:57:06,301 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*2140
+2013-03-13 13:26:58,327 INFO  [ProxyUdpForwarder.java:94] - DTN message: 45082#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:26:58,329 INFO  [WSIAdapterCoap.java:375] - Sent Request: 45082#fec0:0:0:2::2#1#wkc
+2013-03-13 13:26:59,431 INFO  [ProxyUdpForwarder.java:94] - DTN message: 45082#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:26:59,433 INFO  [DTNResponder.java:44] - DTN response: 45082#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:26:59,434 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 45082
+2013-03-13 13:26:59,435 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:26:59,441 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 13:26:59,441 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:26:59,449 INFO  [WSIAdapterCoap.java:396] - Sent Request: 34814#fec0:0:0:2::2#1#st
+2013-03-13 13:26:59,449 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34814#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:27:03,340 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34814#2#2#st*7285 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:27:03,345 INFO  [DTNResponder.java:44] - DTN response: 34814#fec0:0:0:2::2#2#st*7285
+2013-03-13 13:27:03,346 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 34814
+2013-03-13 13:27:03,346 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:27:03,347 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 13:27:03,347 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*7285
+2013-03-13 13:27:03,350 INFO  [WSIAdapterCoap.java:396] - Sent Request: 31736#fec0:0:0:2::2#1#sh
+2013-03-13 13:27:03,350 INFO  [ProxyUdpForwarder.java:94] - DTN message: 31736#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:27:07,248 INFO  [ProxyUdpForwarder.java:94] - DTN message: 31736#2#2#sh*1040 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:27:07,249 INFO  [DTNResponder.java:44] - DTN response: 31736#fec0:0:0:2::2#2#sh*1040
+2013-03-13 13:27:07,250 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 31736
+2013-03-13 13:27:07,250 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:27:07,255 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-13 13:27:07,256 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1040
+2013-03-13 13:27:42,083 INFO  [WSIAdapterCoap.java:464] - Sent Request: CON, GET, MsgId: 41577, #Options: 1
+2013-03-13 13:27:42,093 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 41577, #Options: 1
+2013-03-13 13:27:42,182 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 13:27:42,182 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 41577
+2013-03-13 13:27:42,185 INFO  [WSIAdapterCoap.java:515] - Content Type: link_format
+2013-03-13 13:27:42,186 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:27:42,205 INFO  [WSIAdapterCoap.java:485] - Sent Request: CON, GET, MsgId: 41578, #Options: 1
+2013-03-13 13:27:42,205 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 41578, #Options: 1
+2013-03-13 13:27:42,493 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 13:27:42,494 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 41578
+2013-03-13 13:27:42,494 INFO  [WSIAdapterCoap.java:515] - Content Type: octet_stream
+2013-03-13 13:27:42,495 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:27:42,502 INFO  [WSIAdapterCoap.java:485] - Sent Request: CON, GET, MsgId: 41579, #Options: 1
+2013-03-13 13:27:42,503 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 41579, #Options: 1
+2013-03-13 13:27:42,631 INFO  [WSIAdapterCoap.java:513] - Received response code: Content_205
+2013-03-13 13:27:42,631 INFO  [WSIAdapterCoap.java:514] - CoAP Message ID: 41579
+2013-03-13 13:27:42,632 INFO  [WSIAdapterCoap.java:515] - Content Type: octet_stream
+2013-03-13 13:27:42,632 INFO  [WSIAdapterCoap.java:516] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:32:51,959 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62057, #Options: 1
+2013-03-13 13:32:51,957 INFO  [WSIAdapterCoap.java:455] - Sent Request: CON, GET, MsgId: 62057, #Options: 1
+2013-03-13 13:32:52,025 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:32:52,026 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 62057
+2013-03-13 13:32:52,033 INFO  [WSIAdapterCoap.java:506] - Content Type: link_format
+2013-03-13 13:32:52,034 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:32:52,047 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 62058, #Options: 1
+2013-03-13 13:32:52,048 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62058, #Options: 1
+2013-03-13 13:32:52,337 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:32:52,337 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 62058
+2013-03-13 13:32:52,338 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:32:52,338 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:32:52,348 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 62059, #Options: 1
+2013-03-13 13:32:52,349 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62059, #Options: 1
+2013-03-13 13:32:52,486 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:32:52,487 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 62059
+2013-03-13 13:32:52,487 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:32:52,487 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:33:01,716 INFO  [ProxyUdpForwarder.java:94] - DTN message: 56569#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:33:01,719 INFO  [WSIAdapterCoap.java:366] - Sent Request: 56569#fec0:0:0:2::2#1#wkc
+2013-03-13 13:33:02,749 INFO  [ProxyUdpForwarder.java:94] - DTN message: 56569#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:02,752 INFO  [DTNResponder.java:44] - DTN response: 56569#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:33:02,752 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 56569
+2013-03-13 13:33:02,753 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:02,760 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:02,760 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:33:02,766 INFO  [WSIAdapterCoap.java:387] - Sent Request: 11290#fec0:0:0:2::2#1#st
+2013-03-13 13:33:02,767 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11290#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:33:06,653 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11290#2#2#st*7281 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:06,654 INFO  [DTNResponder.java:44] - DTN response: 11290#fec0:0:0:2::2#2#st*7281
+2013-03-13 13:33:06,655 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 11290
+2013-03-13 13:33:06,655 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:06,656 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:06,656 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: st*7281
+2013-03-13 13:33:06,657 INFO  [WSIAdapterCoap.java:387] - Sent Request: 2541#fec0:0:0:2::2#1#sh
+2013-03-13 13:33:06,657 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2541#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:33:10,565 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2541#2#2#sh*1040 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:10,567 INFO  [DTNResponder.java:44] - DTN response: 2541#fec0:0:0:2::2#2#sh*1040
+2013-03-13 13:33:10,567 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 2541
+2013-03-13 13:33:10,568 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:10,573 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:10,574 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: sh*1040
+2013-03-13 13:33:22,116 INFO  [ProxyUdpForwarder.java:94] - DTN message: 37127#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:33:22,117 INFO  [WSIAdapterCoap.java:366] - Sent Request: 37127#fec0:0:0:2::2#1#wkc
+2013-03-13 13:33:22,281 INFO  [ProxyUdpForwarder.java:94] - DTN message: 37127#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:22,282 INFO  [DTNResponder.java:44] - DTN response: 37127#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:33:22,283 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 37127
+2013-03-13 13:33:22,283 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:22,292 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:22,292 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:33:22,296 INFO  [WSIAdapterCoap.java:387] - Sent Request: 15443#fec0:0:0:2::2#1#st
+2013-03-13 13:33:22,296 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15443#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:33:26,186 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15443#2#2#st*7281 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:26,187 INFO  [DTNResponder.java:44] - DTN response: 15443#fec0:0:0:2::2#2#st*7281
+2013-03-13 13:33:26,188 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 15443
+2013-03-13 13:33:26,188 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:26,189 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:26,189 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: st*7281
+2013-03-13 13:33:26,190 INFO  [WSIAdapterCoap.java:387] - Sent Request: 20057#fec0:0:0:2::2#1#sh
+2013-03-13 13:33:26,190 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20057#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:33:30,096 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20057#2#2#sh*1040 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:30,097 INFO  [DTNResponder.java:44] - DTN response: 20057#fec0:0:0:2::2#2#sh*1040
+2013-03-13 13:33:30,097 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 20057
+2013-03-13 13:33:30,097 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:30,099 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:30,099 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: sh*1040
+2013-03-13 13:33:39,470 INFO  [WSIAdapterCoap.java:366] - Sent Request: 59862#fec0:0:0:2::2#1#wkc
+2013-03-13 13:33:39,471 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59862#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:33:41,809 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59862#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:41,811 INFO  [DTNResponder.java:44] - DTN response: 59862#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:33:41,811 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 59862
+2013-03-13 13:33:41,812 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:41,812 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:41,812 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:33:41,813 INFO  [WSIAdapterCoap.java:387] - Sent Request: 39110#fec0:0:0:2::2#1#st
+2013-03-13 13:33:41,814 INFO  [ProxyUdpForwarder.java:94] - DTN message: 39110#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:33:45,721 INFO  [ProxyUdpForwarder.java:94] - DTN message: 39110#2#2#st*7279 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:45,722 INFO  [DTNResponder.java:44] - DTN response: 39110#fec0:0:0:2::2#2#st*7279
+2013-03-13 13:33:45,723 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 39110
+2013-03-13 13:33:45,723 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:45,723 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:45,724 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: st*7279
+2013-03-13 13:33:45,725 INFO  [WSIAdapterCoap.java:387] - Sent Request: 14524#fec0:0:0:2::2#1#sh
+2013-03-13 13:33:45,725 INFO  [ProxyUdpForwarder.java:94] - DTN message: 14524#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:33:49,624 INFO  [ProxyUdpForwarder.java:94] - DTN message: 14524#2#2#sh*1042 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:33:49,625 INFO  [DTNResponder.java:44] - DTN response: 14524#fec0:0:0:2::2#2#sh*1042
+2013-03-13 13:33:49,625 INFO  [WSIAdapterCoap.java:304] - DTN Packet ID: 14524
+2013-03-13 13:33:49,626 INFO  [WSIAdapterCoap.java:305] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:33:49,626 INFO  [WSIAdapterCoap.java:306] - DTN Packet Type: 2
+2013-03-13 13:33:49,626 INFO  [WSIAdapterCoap.java:307] - DTN Packet Body: sh*1042
+2013-03-13 13:33:58,803 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25132, #Options: 1
+2013-03-13 13:33:58,801 INFO  [WSIAdapterCoap.java:455] - Sent Request: CON, GET, MsgId: 25132, #Options: 1
+2013-03-13 13:33:58,870 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:33:58,870 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25132
+2013-03-13 13:33:58,874 INFO  [WSIAdapterCoap.java:506] - Content Type: link_format
+2013-03-13 13:33:58,875 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:33:58,884 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 25133, #Options: 1
+2013-03-13 13:33:58,885 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25133, #Options: 1
+2013-03-13 13:33:59,170 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:33:59,171 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25133
+2013-03-13 13:33:59,171 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:33:59,171 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:33:59,179 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 25134, #Options: 1
+2013-03-13 13:33:59,180 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25134, #Options: 1
+2013-03-13 13:33:59,319 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:33:59,320 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25134
+2013-03-13 13:33:59,320 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:33:59,321 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:40:30,575 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25135, #Options: 1
+2013-03-13 13:40:30,573 INFO  [WSIAdapterCoap.java:455] - Sent Request: CON, GET, MsgId: 25135, #Options: 1
+2013-03-13 13:40:30,639 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:40:30,639 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25135
+2013-03-13 13:40:30,639 INFO  [WSIAdapterCoap.java:506] - Content Type: link_format
+2013-03-13 13:40:30,639 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:40:30,641 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 25136, #Options: 1
+2013-03-13 13:40:30,641 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25136, #Options: 1
+2013-03-13 13:40:30,929 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:40:30,929 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25136
+2013-03-13 13:40:30,929 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:40:30,929 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:40:30,930 INFO  [WSIAdapterCoap.java:476] - Sent Request: CON, GET, MsgId: 25137, #Options: 1
+2013-03-13 13:40:30,931 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 25137, #Options: 1
+2013-03-13 13:40:31,059 INFO  [WSIAdapterCoap.java:504] - Received response code: Content_205
+2013-03-13 13:40:31,060 INFO  [WSIAdapterCoap.java:505] - CoAP Message ID: 25137
+2013-03-13 13:40:31,060 INFO  [WSIAdapterCoap.java:506] - Content Type: octet_stream
+2013-03-13 13:40:31,060 INFO  [WSIAdapterCoap.java:507] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:43:33,337 INFO  [ProxyUdpForwarder.java:94] - DTN message: 4907#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:43:33,342 INFO  [WSIAdapterCoap.java:365] - Sent Request: 4907#fec0:0:0:2::2#1#wkc
+2013-03-13 13:43:35,620 INFO  [ProxyUdpForwarder.java:94] - DTN message: 4907#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:43:35,622 INFO  [DTNResponder.java:44] - DTN response: 4907#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:43:35,623 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 4907
+2013-03-13 13:43:35,623 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:43:35,630 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:43:35,630 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:43:35,637 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59698#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:43:35,638 INFO  [WSIAdapterCoap.java:386] - Sent Request: 59698#fec0:0:0:2::2#1#st
+2013-03-13 13:43:39,522 INFO  [ProxyUdpForwarder.java:94] - DTN message: 59698#2#2#st*7145 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:43:39,523 INFO  [DTNResponder.java:44] - DTN response: 59698#fec0:0:0:2::2#2#st*7145
+2013-03-13 13:43:39,524 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 59698
+2013-03-13 13:43:39,524 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:43:39,525 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:43:39,525 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7145
+2013-03-13 13:43:39,526 INFO  [WSIAdapterCoap.java:386] - Sent Request: 9281#fec0:0:0:2::2#1#sh
+2013-03-13 13:43:39,526 INFO  [ProxyUdpForwarder.java:94] - DTN message: 9281#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:43:43,426 INFO  [ProxyUdpForwarder.java:94] - DTN message: 9281#2#2#sh*1082 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:43:43,428 INFO  [DTNResponder.java:44] - DTN response: 9281#fec0:0:0:2::2#2#sh*1082
+2013-03-13 13:43:43,428 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 9281
+2013-03-13 13:43:43,429 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:43:43,434 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:43:43,435 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1082
+2013-03-13 13:43:44,718 INFO  [WSIAdapterCoap.java:454] - Sent Request: CON, GET, MsgId: 37593, #Options: 1
+2013-03-13 13:43:44,722 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37593, #Options: 1
+2013-03-13 13:43:44,790 INFO  [WSIAdapterCoap.java:503] - Received response code: Content_205
+2013-03-13 13:43:44,791 INFO  [WSIAdapterCoap.java:504] - CoAP Message ID: 37593
+2013-03-13 13:43:44,791 INFO  [WSIAdapterCoap.java:505] - Content Type: link_format
+2013-03-13 13:43:44,792 INFO  [WSIAdapterCoap.java:506] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:43:44,801 INFO  [WSIAdapterCoap.java:475] - Sent Request: CON, GET, MsgId: 37594, #Options: 1
+2013-03-13 13:43:44,804 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37594, #Options: 1
+2013-03-13 13:43:45,096 INFO  [WSIAdapterCoap.java:503] - Received response code: Content_205
+2013-03-13 13:43:45,096 INFO  [WSIAdapterCoap.java:504] - CoAP Message ID: 37594
+2013-03-13 13:43:45,097 INFO  [WSIAdapterCoap.java:505] - Content Type: octet_stream
+2013-03-13 13:43:45,097 INFO  [WSIAdapterCoap.java:506] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:43:45,109 INFO  [WSIAdapterCoap.java:475] - Sent Request: CON, GET, MsgId: 37595, #Options: 1
+2013-03-13 13:43:45,112 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37595, #Options: 1
+2013-03-13 13:43:45,246 INFO  [WSIAdapterCoap.java:503] - Received response code: Content_205
+2013-03-13 13:43:45,247 INFO  [WSIAdapterCoap.java:504] - CoAP Message ID: 37595
+2013-03-13 13:43:45,247 INFO  [WSIAdapterCoap.java:505] - Content Type: octet_stream
+2013-03-13 13:43:45,247 INFO  [WSIAdapterCoap.java:506] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:50:53,220 INFO  [ProxyUdpForwarder.java:94] - DTN message: 65382#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:50:53,223 INFO  [WSIAdapterCoap.java:372] - Sent Request: 65382#fec0:0:0:2::2#1#wkc
+2013-03-13 13:50:57,063 INFO  [ProxyUdpForwarder.java:94] - DTN message: 65382#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:50:57,065 INFO  [DTNResponder.java:44] - DTN response: 65382#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:50:57,065 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 65382
+2013-03-13 13:50:57,066 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:50:57,072 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:50:57,073 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:50:57,081 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15934#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:50:57,082 INFO  [WSIAdapterCoap.java:393] - Sent Request: 15934#fec0:0:0:2::2#1#st
+2013-03-13 13:51:00,965 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15934#2#2#st*7151 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:51:00,967 INFO  [DTNResponder.java:44] - DTN response: 15934#fec0:0:0:2::2#2#st*7151
+2013-03-13 13:51:00,968 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 15934
+2013-03-13 13:51:00,968 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:51:00,969 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:51:00,969 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7151
+2013-03-13 13:51:00,970 INFO  [WSIAdapterCoap.java:393] - Sent Request: 25891#fec0:0:0:2::2#1#sh
+2013-03-13 13:51:00,970 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25891#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:51:04,874 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25891#2#2#sh*1083 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:51:04,875 INFO  [DTNResponder.java:44] - DTN response: 25891#fec0:0:0:2::2#2#sh*1083
+2013-03-13 13:51:04,876 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 25891
+2013-03-13 13:51:04,876 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:51:04,882 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:51:04,882 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1083
+2013-03-13 13:51:07,297 INFO  [WSIAdapterCoap.java:461] - Sent Request: CON, GET, MsgId: 2419, #Options: 1
+2013-03-13 13:51:07,299 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 2419, #Options: 1
+2013-03-13 13:51:07,372 INFO  [WSIAdapterCoap.java:510] - Received response code: Content_205
+2013-03-13 13:51:07,372 INFO  [WSIAdapterCoap.java:511] - CoAP Message ID: 2419
+2013-03-13 13:51:07,374 INFO  [WSIAdapterCoap.java:512] - Content Type: link_format
+2013-03-13 13:51:07,375 INFO  [WSIAdapterCoap.java:513] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:51:07,380 INFO  [WSIAdapterCoap.java:482] - Sent Request: CON, GET, MsgId: 2420, #Options: 1
+2013-03-13 13:51:07,382 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 2420, #Options: 1
+2013-03-13 13:51:07,672 INFO  [WSIAdapterCoap.java:510] - Received response code: Content_205
+2013-03-13 13:51:07,672 INFO  [WSIAdapterCoap.java:511] - CoAP Message ID: 2420
+2013-03-13 13:51:07,673 INFO  [WSIAdapterCoap.java:512] - Content Type: octet_stream
+2013-03-13 13:51:07,673 INFO  [WSIAdapterCoap.java:513] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:51:07,676 INFO  [WSIAdapterCoap.java:482] - Sent Request: CON, GET, MsgId: 2421, #Options: 1
+2013-03-13 13:51:07,678 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 2421, #Options: 1
+2013-03-13 13:51:07,812 INFO  [WSIAdapterCoap.java:510] - Received response code: Content_205
+2013-03-13 13:51:07,813 INFO  [WSIAdapterCoap.java:511] - CoAP Message ID: 2421
+2013-03-13 13:51:07,813 INFO  [WSIAdapterCoap.java:512] - Content Type: octet_stream
+2013-03-13 13:51:07,814 INFO  [WSIAdapterCoap.java:513] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:55:00,529 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38667#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:55:00,531 INFO  [WSIAdapterCoap.java:373] - Sent Request: 38667#fec0:0:0:2::2#1#wkc
+2013-03-13 13:55:03,179 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38667#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:55:03,180 INFO  [DTNResponder.java:44] - DTN response: 38667#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:55:03,181 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 38667
+2013-03-13 13:55:03,182 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:55:03,188 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:55:03,188 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:55:03,195 INFO  [WSIAdapterCoap.java:394] - Sent Request: 16601#fec0:0:0:2::2#1#st
+2013-03-13 13:55:03,195 INFO  [ProxyUdpForwarder.java:94] - DTN message: 16601#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:55:07,088 INFO  [ProxyUdpForwarder.java:94] - DTN message: 16601#2#2#st*7168 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:55:07,090 INFO  [DTNResponder.java:44] - DTN response: 16601#fec0:0:0:2::2#2#st*7168
+2013-03-13 13:55:07,090 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 16601
+2013-03-13 13:55:07,091 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:55:07,091 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:55:07,091 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7168
+2013-03-13 13:55:07,093 INFO  [WSIAdapterCoap.java:394] - Sent Request: 23031#fec0:0:0:2::2#1#sh
+2013-03-13 13:55:07,093 INFO  [ProxyUdpForwarder.java:94] - DTN message: 23031#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:55:10,997 INFO  [ProxyUdpForwarder.java:94] - DTN message: 23031#2#2#sh*1080 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:55:10,998 INFO  [DTNResponder.java:44] - DTN response: 23031#fec0:0:0:2::2#2#sh*1080
+2013-03-13 13:55:10,999 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 23031
+2013-03-13 13:55:10,999 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:55:11,005 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:55:11,005 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1080
+2013-03-13 13:55:12,516 INFO  [WSIAdapterCoap.java:462] - Sent Request: CON, GET, MsgId: 48536, #Options: 1
+2013-03-13 13:55:12,518 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48536, #Options: 1
+2013-03-13 13:55:12,582 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:55:12,582 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48536
+2013-03-13 13:55:12,583 INFO  [WSIAdapterCoap.java:513] - Content Type: link_format
+2013-03-13 13:55:12,584 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:55:12,593 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 48537, #Options: 1
+2013-03-13 13:55:12,594 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48537, #Options: 1
+2013-03-13 13:55:12,885 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:55:12,885 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48537
+2013-03-13 13:55:12,886 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:55:12,886 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:55:12,894 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 48538, #Options: 1
+2013-03-13 13:55:12,898 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48538, #Options: 1
+2013-03-13 13:55:13,034 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:55:13,035 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48538
+2013-03-13 13:55:13,035 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:55:13,036 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:55:14,371 INFO  [WSIAdapterCoap.java:373] - Sent Request: 16886#fec0:0:0:2::2#1#wkc
+2013-03-13 13:55:14,372 INFO  [ProxyUdpForwarder.java:94] - DTN message: 16886#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:55:14,372 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 13:55:14,377 ERROR [DTNResponder.java:53] - Socket closed
+2013-03-13 13:55:14,899 INFO  [ProxyUdpForwarder.java:94] - DTN message: 16886#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:56:50,273 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25342#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:56:50,274 INFO  [WSIAdapterCoap.java:373] - Sent Request: 25342#fec0:0:0:2::2#1#wkc
+2013-03-13 13:56:52,568 INFO  [ProxyUdpForwarder.java:94] - DTN message: 25342#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:56:52,570 INFO  [DTNResponder.java:44] - DTN response: 25342#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:56:52,571 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 25342
+2013-03-13 13:56:52,571 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:56:52,577 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:56:52,578 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:56:52,585 INFO  [WSIAdapterCoap.java:394] - Sent Request: 34005#fec0:0:0:2::2#1#st
+2013-03-13 13:56:52,585 INFO  [ProxyUdpForwarder.java:94] - DTN message: 34005#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:56:56,468 INFO  [ProxyUdpForwarder.java:94] - DTN message: 0#2#2#st*7175 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:56:56,469 INFO  [DTNResponder.java:44] - DTN response: 0#fec0:0:0:2::2#2#st*7175
+2013-03-13 13:56:56,470 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 0
+2013-03-13 13:56:56,470 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:56:56,471 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:56:56,471 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7175
+2013-03-13 13:56:56,472 INFO  [WSIAdapterCoap.java:394] - Sent Request: 8216#fec0:0:0:2::2#1#sh
+2013-03-13 13:56:56,472 INFO  [ProxyUdpForwarder.java:94] - DTN message: 8216#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:57:00,372 INFO  [ProxyUdpForwarder.java:94] - DTN message: 8216#2#2#sh*1089 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:57:00,375 INFO  [DTNResponder.java:44] - DTN response: 8216#fec0:0:0:2::2#2#sh*1089
+2013-03-13 13:57:00,376 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 8216
+2013-03-13 13:57:00,376 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:57:00,382 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:57:00,382 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1089
+2013-03-13 13:57:12,627 INFO  [WSIAdapterCoap.java:462] - Sent Request: CON, GET, MsgId: 48922, #Options: 1
+2013-03-13 13:57:12,639 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48922, #Options: 1
+2013-03-13 13:57:12,729 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:57:12,730 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48922
+2013-03-13 13:57:12,732 INFO  [WSIAdapterCoap.java:513] - Content Type: link_format
+2013-03-13 13:57:12,732 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:57:12,742 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 48923, #Options: 1
+2013-03-13 13:57:12,746 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48923, #Options: 1
+2013-03-13 13:57:13,040 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:57:13,040 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48923
+2013-03-13 13:57:13,041 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:57:13,041 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:57:13,048 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 48924, #Options: 1
+2013-03-13 13:57:13,050 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48924, #Options: 1
+2013-03-13 13:57:13,189 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:57:13,190 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 48924
+2013-03-13 13:57:13,190 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:57:13,191 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:57:14,449 INFO  [WSIAdapterCoap.java:373] - Sent Request: 168#fec0:0:0:2::2#1#wkc
+2013-03-13 13:57:14,449 INFO  [ProxyUdpForwarder.java:94] - DTN message: 168#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:57:14,449 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 13:57:14,450 ERROR [DTNResponder.java:53] - Socket closed
+2013-03-13 13:57:16,004 INFO  [ProxyUdpForwarder.java:94] - DTN message: 168#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:59:23,330 INFO  [ProxyUdpForwarder.java:94] - DTN message: 46950#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:59:23,333 INFO  [WSIAdapterCoap.java:373] - Sent Request: 46950#fec0:0:0:2::2#1#wkc
+2013-03-13 13:59:24,920 INFO  [ProxyUdpForwarder.java:94] - DTN message: 46950#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:59:24,922 INFO  [DTNResponder.java:44] - DTN response: 46950#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 13:59:24,923 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 46950
+2013-03-13 13:59:24,924 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:59:24,930 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:59:24,930 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 13:59:24,938 INFO  [ProxyUdpForwarder.java:94] - DTN message: 62959#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 13:59:24,940 INFO  [WSIAdapterCoap.java:394] - Sent Request: 62959#fec0:0:0:2::2#1#st
+2013-03-13 13:59:28,827 INFO  [ProxyUdpForwarder.java:94] - DTN message: 62959#2#2#st*7155 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:59:28,828 INFO  [DTNResponder.java:44] - DTN response: 62959#fec0:0:0:2::2#2#st*7155
+2013-03-13 13:59:28,829 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 62959
+2013-03-13 13:59:28,829 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:59:28,830 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:59:28,830 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7155
+2013-03-13 13:59:28,832 INFO  [WSIAdapterCoap.java:394] - Sent Request: 38153#fec0:0:0:2::2#1#sh
+2013-03-13 13:59:28,832 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38153#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 13:59:32,737 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38153#2#2#sh*1090 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:59:32,739 INFO  [DTNResponder.java:44] - DTN response: 38153#fec0:0:0:2::2#2#sh*1090
+2013-03-13 13:59:32,739 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 38153
+2013-03-13 13:59:32,740 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 13:59:32,746 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 13:59:32,746 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1090
+2013-03-13 13:59:35,565 INFO  [WSIAdapterCoap.java:462] - Sent Request: CON, GET, MsgId: 52169, #Options: 1
+2013-03-13 13:59:35,567 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 52169, #Options: 1
+2013-03-13 13:59:35,631 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:59:35,632 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 52169
+2013-03-13 13:59:35,635 INFO  [WSIAdapterCoap.java:513] - Content Type: link_format
+2013-03-13 13:59:35,636 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:59:35,647 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 52170, #Options: 1
+2013-03-13 13:59:35,648 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 52170, #Options: 1
+2013-03-13 13:59:35,940 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:59:35,941 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 52170
+2013-03-13 13:59:35,941 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:59:35,942 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:59:35,949 INFO  [WSIAdapterCoap.java:483] - Sent Request: CON, GET, MsgId: 52171, #Options: 1
+2013-03-13 13:59:35,951 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 52171, #Options: 1
+2013-03-13 13:59:36,089 INFO  [WSIAdapterCoap.java:511] - Received response code: Content_205
+2013-03-13 13:59:36,089 INFO  [WSIAdapterCoap.java:512] - CoAP Message ID: 52171
+2013-03-13 13:59:36,089 INFO  [WSIAdapterCoap.java:513] - Content Type: octet_stream
+2013-03-13 13:59:36,090 INFO  [WSIAdapterCoap.java:514] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 13:59:37,026 INFO  [ProxyUdpForwarder.java:94] - DTN message: 19583#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 13:59:37,026 INFO  [WSIAdapterCoap.java:373] - Sent Request: 19583#fec0:0:0:2::2#1#wkc
+2013-03-13 13:59:37,026 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 13:59:40,552 INFO  [ProxyUdpForwarder.java:94] - DTN message: 19583#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 13:59:40,554 INFO  [DTNResponder.java:44] - DTN response: 19583#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:01:29,494 INFO  [ProxyUdpForwarder.java:94] - DTN message: 1918#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:01:29,496 INFO  [WSIAdapterCoap.java:376] - Sent Request: 1918#fec0:0:0:2::2#1#wkc
+2013-03-13 14:01:29,934 INFO  [ProxyUdpForwarder.java:94] - DTN message: 1918#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:02:36,673 INFO  [ProxyUdpForwarder.java:94] - DTN message: 41725#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:02:36,673 INFO  [WSIAdapterCoap.java:376] - Sent Request: 41725#fec0:0:0:2::2#1#wkc
+2013-03-13 14:02:39,880 INFO  [ProxyUdpForwarder.java:94] - DTN message: 41725#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:06:43,424 INFO  [ProxyUdpForwarder.java:94] - DTN message: 22074#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:06:43,424 INFO  [WSIAdapterCoap.java:383] - Sent Request: 22074#fec0:0:0:2::2#1#wkc
+2013-03-13 14:06:46,426 INFO  [ProxyUdpForwarder.java:94] - DTN message: 22074#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:06:46,428 INFO  [DTNResponder.java:44] - DTN response: 22074#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:06:46,429 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 22074
+2013-03-13 14:06:46,430 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:06:46,436 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:06:46,436 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:06:46,444 INFO  [WSIAdapterCoap.java:404] - Sent Request: 18597#fec0:0:0:2::2#1#st
+2013-03-13 14:06:46,444 INFO  [ProxyUdpForwarder.java:94] - DTN message: 18597#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:06:50,331 INFO  [ProxyUdpForwarder.java:94] - DTN message: 18597#2#2#st*7310 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:06:50,333 INFO  [DTNResponder.java:44] - DTN response: 18597#fec0:0:0:2::2#2#st*7310
+2013-03-13 14:06:50,333 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 18597
+2013-03-13 14:06:50,334 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:06:50,334 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:06:50,334 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7310
+2013-03-13 14:06:50,336 INFO  [WSIAdapterCoap.java:404] - Sent Request: 46398#fec0:0:0:2::2#1#sh
+2013-03-13 14:06:50,336 INFO  [ProxyUdpForwarder.java:94] - DTN message: 46398#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:06:54,238 INFO  [ProxyUdpForwarder.java:94] - DTN message: 46398#2#2#sh*1040 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:06:54,240 INFO  [DTNResponder.java:44] - DTN response: 46398#fec0:0:0:2::2#2#sh*1040
+2013-03-13 14:06:54,241 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 46398
+2013-03-13 14:06:54,241 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:06:54,247 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:06:54,247 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1040
+2013-03-13 14:06:56,050 INFO  [WSIAdapterCoap.java:472] - Sent Request: CON, GET, MsgId: 35782, #Options: 1
+2013-03-13 14:06:56,058 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 35782, #Options: 1
+2013-03-13 14:06:56,137 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:06:56,138 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 35782
+2013-03-13 14:06:56,141 INFO  [WSIAdapterCoap.java:523] - Content Type: link_format
+2013-03-13 14:06:56,142 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:06:56,149 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 35783, #Options: 1
+2013-03-13 14:06:56,150 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 35783, #Options: 1
+2013-03-13 14:06:56,438 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:06:56,439 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 35783
+2013-03-13 14:06:56,442 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:06:56,442 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:06:56,450 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 35784, #Options: 1
+2013-03-13 14:06:56,452 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 35784, #Options: 1
+2013-03-13 14:06:56,586 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:06:56,586 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 35784
+2013-03-13 14:06:56,587 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:06:56,587 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:06:58,494 INFO  [WSIAdapterCoap.java:383] - Sent Request: 42038#fec0:0:0:2::2#1#wkc
+2013-03-13 14:06:58,494 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42038#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:06:58,494 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 14:07:02,051 INFO  [ProxyUdpForwarder.java:94] - DTN message: 42038#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:07:02,052 INFO  [DTNResponder.java:44] - DTN response: 42038#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:07:02,052 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 42038
+2013-03-13 14:07:02,053 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:07:02,053 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:07:02,053 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:07:02,054 INFO  [WSIAdapterCoap.java:404] - Sent Request: 17064#fec0:0:0:2::2#1#st
+2013-03-13 14:07:02,055 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17064#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:07:05,963 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17064#2#2#st*7325 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:07:45,964 INFO  [ProxyUdpForwarder.java:94] - DTN message: 12629#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:07:45,967 INFO  [WSIAdapterCoap.java:383] - Sent Request: 12629#fec0:0:0:2::2#1#wkc
+2013-03-13 14:07:48,932 INFO  [ProxyUdpForwarder.java:94] - DTN message: 12629#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:07:48,934 INFO  [DTNResponder.java:44] - DTN response: 12629#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:07:48,935 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 12629
+2013-03-13 14:07:48,935 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:07:48,941 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:07:48,941 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:07:48,949 INFO  [WSIAdapterCoap.java:404] - Sent Request: 20547#fec0:0:0:2::2#1#st
+2013-03-13 14:07:48,949 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20547#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:07:52,840 INFO  [ProxyUdpForwarder.java:94] - DTN message: 20547#2#2#st*7328 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:07:52,841 INFO  [DTNResponder.java:44] - DTN response: 20547#fec0:0:0:2::2#2#st*7328
+2013-03-13 14:07:52,843 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 20547
+2013-03-13 14:07:52,844 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:07:52,844 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:07:52,845 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7328
+2013-03-13 14:07:52,846 INFO  [WSIAdapterCoap.java:404] - Sent Request: 26542#fec0:0:0:2::2#1#sh
+2013-03-13 14:07:52,846 INFO  [ProxyUdpForwarder.java:94] - DTN message: 26542#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:07:56,747 INFO  [ProxyUdpForwarder.java:94] - DTN message: 26542#2#2#sh*1035 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:07:56,749 INFO  [DTNResponder.java:44] - DTN response: 26542#fec0:0:0:2::2#2#sh*1035
+2013-03-13 14:07:56,749 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 26542
+2013-03-13 14:07:56,750 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:07:56,755 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:07:56,756 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1035
+2013-03-13 14:08:00,617 INFO  [WSIAdapterCoap.java:472] - Sent Request: CON, GET, MsgId: 18695, #Options: 1
+2013-03-13 14:08:00,619 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18695, #Options: 1
+2013-03-13 14:08:00,697 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:08:00,698 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18695
+2013-03-13 14:08:00,698 INFO  [WSIAdapterCoap.java:523] - Content Type: link_format
+2013-03-13 14:08:00,699 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:08:00,703 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 18696, #Options: 1
+2013-03-13 14:08:00,704 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18696, #Options: 1
+2013-03-13 14:08:00,994 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:08:00,995 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18696
+2013-03-13 14:08:00,995 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:08:00,996 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:08:01,003 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 18697, #Options: 1
+2013-03-13 14:08:01,005 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18697, #Options: 1
+2013-03-13 14:08:01,138 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:08:01,138 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18697
+2013-03-13 14:08:01,139 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:08:01,139 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:08:02,429 INFO  [WSIAdapterCoap.java:383] - Sent Request: 35878#fec0:0:0:2::2#1#wkc
+2013-03-13 14:08:02,430 INFO  [ProxyUdpForwarder.java:94] - DTN message: 35878#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:08:02,432 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 14:08:04,561 INFO  [ProxyUdpForwarder.java:94] - DTN message: 35878#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:08:04,562 INFO  [DTNResponder.java:44] - DTN response: 35878#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:08:04,563 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 35878
+2013-03-13 14:08:04,563 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:08:04,563 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:08:04,564 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:08:04,564 INFO  [WSIAdapterCoap.java:404] - Sent Request: 5158#fec0:0:0:2::2#1#st
+2013-03-13 14:08:04,564 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5158#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:08:08,463 INFO  [ProxyUdpForwarder.java:94] - DTN message: 5158#2#2#st*7344 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:08:58,828 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15978#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:08:58,831 INFO  [WSIAdapterCoap.java:383] - Sent Request: 15978#fec0:0:0:2::2#1#wkc
+2013-03-13 14:09:03,156 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15978#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:09:03,158 INFO  [DTNResponder.java:44] - DTN response: 15978#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:09:03,159 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 15978
+2013-03-13 14:09:03,159 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:09:03,166 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:09:03,170 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:09:03,178 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13433#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:09:03,178 INFO  [WSIAdapterCoap.java:404] - Sent Request: 13433#fec0:0:0:2::2#1#st
+2013-03-13 14:09:07,064 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13433#2#2#st*7357 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:09:07,065 INFO  [DTNResponder.java:44] - DTN response: 13433#fec0:0:0:2::2#2#st*7357
+2013-03-13 14:09:07,065 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 13433
+2013-03-13 14:09:07,065 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:09:07,065 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:09:07,066 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7357
+2013-03-13 14:09:07,066 INFO  [WSIAdapterCoap.java:404] - Sent Request: 15876#fec0:0:0:2::2#1#sh
+2013-03-13 14:09:07,066 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15876#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:09:10,974 INFO  [ProxyUdpForwarder.java:94] - DTN message: 15876#2#2#sh*1024 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:09:10,975 INFO  [DTNResponder.java:44] - DTN response: 15876#fec0:0:0:2::2#2#sh*1024
+2013-03-13 14:09:10,976 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 15876
+2013-03-13 14:09:10,976 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:09:10,982 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:09:10,982 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1024
+2013-03-13 14:09:15,254 INFO  [WSIAdapterCoap.java:472] - Sent Request: CON, GET, MsgId: 18884, #Options: 1
+2013-03-13 14:09:15,257 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18884, #Options: 1
+2013-03-13 14:09:15,325 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:09:15,325 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18884
+2013-03-13 14:09:15,329 INFO  [WSIAdapterCoap.java:523] - Content Type: link_format
+2013-03-13 14:09:15,330 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:09:15,338 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 18885, #Options: 1
+2013-03-13 14:09:15,340 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18885, #Options: 1
+2013-03-13 14:09:15,628 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:09:15,628 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18885
+2013-03-13 14:09:15,629 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:09:15,629 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:09:15,637 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 18886, #Options: 1
+2013-03-13 14:09:15,638 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18886, #Options: 1
+2013-03-13 14:09:15,773 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:09:15,774 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 18886
+2013-03-13 14:09:15,774 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:09:15,775 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:09:16,477 INFO  [WSIAdapterCoap.java:383] - Sent Request: 13988#fec0:0:0:2::2#1#wkc
+2013-03-13 14:09:16,477 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13988#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:09:16,478 ERROR [DTNResponder.java:53] - Address already in use
+2013-03-13 14:09:18,789 INFO  [ProxyUdpForwarder.java:94] - DTN message: 13988#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:09:18,790 INFO  [DTNResponder.java:44] - DTN response: 13988#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:09:18,791 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 13988
+2013-03-13 14:09:18,791 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:09:18,791 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:09:18,792 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:09:18,793 INFO  [WSIAdapterCoap.java:404] - Sent Request: 49413#fec0:0:0:2::2#1#st
+2013-03-13 14:09:18,793 INFO  [ProxyUdpForwarder.java:94] - DTN message: 49413#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:09:22,694 INFO  [ProxyUdpForwarder.java:94] - DTN message: 49413#2#2#st*7358 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:10:19,869 INFO  [ProxyUdpForwarder.java:94] - DTN message: 12885#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:10:19,870 INFO  [WSIAdapterCoap.java:383] - Sent Request: 12885#fec0:0:0:2::2#1#wkc
+2013-03-13 14:10:25,192 INFO  [ProxyUdpForwarder.java:94] - DTN message: 12885#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:10:25,194 INFO  [DTNResponder.java:50] - DTN response: 12885#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:10:25,195 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 12885
+2013-03-13 14:10:25,195 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:10:25,201 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:10:25,202 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:10:25,210 INFO  [ProxyUdpForwarder.java:94] - DTN message: 64159#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:10:25,212 INFO  [WSIAdapterCoap.java:404] - Sent Request: 64159#fec0:0:0:2::2#1#st
+2013-03-13 14:10:29,107 INFO  [ProxyUdpForwarder.java:94] - DTN message: 64159#2#2#st*7349 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:10:29,108 INFO  [DTNResponder.java:50] - DTN response: 64159#fec0:0:0:2::2#2#st*7349
+2013-03-13 14:10:29,109 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 64159
+2013-03-13 14:10:29,109 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:10:29,109 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:10:29,110 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7349
+2013-03-13 14:10:29,111 INFO  [WSIAdapterCoap.java:404] - Sent Request: 10937#fec0:0:0:2::2#1#sh
+2013-03-13 14:10:29,111 INFO  [ProxyUdpForwarder.java:94] - DTN message: 10937#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:10:33,014 INFO  [ProxyUdpForwarder.java:94] - DTN message: 10937#2#2#sh*1020 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:10:33,015 INFO  [DTNResponder.java:50] - DTN response: 10937#fec0:0:0:2::2#2#sh*1020
+2013-03-13 14:10:33,016 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 10937
+2013-03-13 14:10:33,017 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:10:33,022 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:10:33,022 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1020
+2013-03-13 14:10:33,897 INFO  [WSIAdapterCoap.java:472] - Sent Request: CON, GET, MsgId: 37874, #Options: 1
+2013-03-13 14:10:33,900 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37874, #Options: 1
+2013-03-13 14:10:33,971 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:10:33,971 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 37874
+2013-03-13 14:10:33,972 INFO  [WSIAdapterCoap.java:523] - Content Type: link_format
+2013-03-13 14:10:33,972 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:10:33,978 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 37875, #Options: 1
+2013-03-13 14:10:33,978 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37875, #Options: 1
+2013-03-13 14:10:34,270 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:10:34,270 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 37875
+2013-03-13 14:10:34,270 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:10:34,271 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:10:34,278 INFO  [WSIAdapterCoap.java:493] - Sent Request: CON, GET, MsgId: 37876, #Options: 1
+2013-03-13 14:10:34,280 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 37876, #Options: 1
+2013-03-13 14:10:34,415 INFO  [WSIAdapterCoap.java:521] - Received response code: Content_205
+2013-03-13 14:10:34,415 INFO  [WSIAdapterCoap.java:522] - CoAP Message ID: 37876
+2013-03-13 14:10:34,416 INFO  [WSIAdapterCoap.java:523] - Content Type: octet_stream
+2013-03-13 14:10:34,416 INFO  [WSIAdapterCoap.java:524] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:10:35,439 INFO  [ProxyUdpForwarder.java:94] - DTN message: 54138#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:10:35,439 INFO  [WSIAdapterCoap.java:383] - Sent Request: 54138#fec0:0:0:2::2#1#wkc
+2013-03-13 14:10:40,824 INFO  [ProxyUdpForwarder.java:94] - DTN message: 54138#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:10:40,826 INFO  [DTNResponder.java:50] - DTN response: 54138#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:10:40,826 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 54138
+2013-03-13 14:10:40,827 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:10:40,827 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:10:40,827 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:10:40,828 INFO  [WSIAdapterCoap.java:404] - Sent Request: 27897#fec0:0:0:2::2#1#st
+2013-03-13 14:10:40,828 INFO  [ProxyUdpForwarder.java:94] - DTN message: 27897#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:10:44,732 INFO  [ProxyUdpForwarder.java:94] - DTN message: 27897#2#2#st*7347 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:17:01,865 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2080#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:17:01,868 INFO  [WSIAdapterCoap.java:363] - Sent Request: 2080#fec0:0:0:2::2#1#wkc
+2013-03-13 14:17:03,667 INFO  [ProxyUdpForwarder.java:94] - DTN message: 2080#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:03,975 INFO  [ProxyUdpForwarder.java:94] - DTN message: 26823#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:18:03,975 INFO  [WSIAdapterCoap.java:363] - Sent Request: 26823#fec0:0:0:2::2#1#wkc
+2013-03-13 14:18:06,297 INFO  [ProxyUdpForwarder.java:94] - DTN message: 26823#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:06,299 INFO  [DTNResponder.java:39] - DTN response: 26823#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:18:06,299 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 26823
+2013-03-13 14:18:06,300 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:06,306 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:06,306 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:18:06,315 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11437#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:18:06,316 INFO  [WSIAdapterCoap.java:384] - Sent Request: 11437#fec0:0:0:2::2#1#st
+2013-03-13 14:18:10,204 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11437#2#2#st*7320 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:10,206 INFO  [DTNResponder.java:39] - DTN response: 11437#fec0:0:0:2::2#2#st*7320
+2013-03-13 14:18:10,206 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 11437
+2013-03-13 14:18:10,207 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:10,207 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:10,207 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7320
+2013-03-13 14:18:10,209 INFO  [WSIAdapterCoap.java:384] - Sent Request: 38183#fec0:0:0:2::2#1#sh
+2013-03-13 14:18:10,209 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38183#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:18:14,113 INFO  [ProxyUdpForwarder.java:94] - DTN message: 38183#2#2#sh*1040 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:14,115 INFO  [DTNResponder.java:39] - DTN response: 38183#fec0:0:0:2::2#2#sh*1040
+2013-03-13 14:18:14,116 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 38183
+2013-03-13 14:18:14,116 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:14,122 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:14,122 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1040
+2013-03-13 14:18:15,325 INFO  [WSIAdapterCoap.java:452] - Sent Request: CON, GET, MsgId: 50952, #Options: 1
+2013-03-13 14:18:15,334 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50952, #Options: 1
+2013-03-13 14:18:15,405 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:15,406 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50952
+2013-03-13 14:18:15,406 INFO  [WSIAdapterCoap.java:503] - Content Type: link_format
+2013-03-13 14:18:15,407 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:15,412 INFO  [WSIAdapterCoap.java:473] - Sent Request: CON, GET, MsgId: 50953, #Options: 1
+2013-03-13 14:18:15,413 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50953, #Options: 1
+2013-03-13 14:18:15,699 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:15,700 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50953
+2013-03-13 14:18:15,700 INFO  [WSIAdapterCoap.java:503] - Content Type: octet_stream
+2013-03-13 14:18:15,700 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:15,703 INFO  [WSIAdapterCoap.java:473] - Sent Request: CON, GET, MsgId: 50954, #Options: 1
+2013-03-13 14:18:15,705 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50954, #Options: 1
+2013-03-13 14:18:15,833 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:15,834 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50954
+2013-03-13 14:18:15,834 INFO  [WSIAdapterCoap.java:503] - Content Type: octet_stream
+2013-03-13 14:18:15,834 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:17,048 INFO  [WSIAdapterCoap.java:363] - Sent Request: 44820#fec0:0:0:2::2#1#wkc
+2013-03-13 14:18:17,048 INFO  [ProxyUdpForwarder.java:94] - DTN message: 44820#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:18:21,921 INFO  [ProxyUdpForwarder.java:94] - DTN message: 44820#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:21,922 INFO  [DTNResponder.java:39] - DTN response: 44820#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:18:21,923 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 44820
+2013-03-13 14:18:21,923 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:21,923 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:21,923 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:18:21,925 INFO  [WSIAdapterCoap.java:384] - Sent Request: 21343#fec0:0:0:2::2#1#st
+2013-03-13 14:18:21,925 INFO  [ProxyUdpForwarder.java:94] - DTN message: 21343#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:18:25,829 INFO  [ProxyUdpForwarder.java:94] - DTN message: 21343#2#2#st*7339 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:25,830 INFO  [DTNResponder.java:39] - DTN response: 21343#fec0:0:0:2::2#2#st*7339
+2013-03-13 14:18:25,831 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 21343
+2013-03-13 14:18:25,831 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:25,832 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:25,832 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7339
+2013-03-13 14:18:25,833 INFO  [ProxyUdpForwarder.java:94] - DTN message: 48658#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:18:25,833 INFO  [WSIAdapterCoap.java:384] - Sent Request: 48658#fec0:0:0:2::2#1#sh
+2013-03-13 14:18:29,738 INFO  [ProxyUdpForwarder.java:94] - DTN message: 48658#2#2#sh*1029 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:29,739 INFO  [DTNResponder.java:39] - DTN response: 48658#fec0:0:0:2::2#2#sh*1029
+2013-03-13 14:18:29,740 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 48658
+2013-03-13 14:18:29,740 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:29,740 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:29,741 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1029
+2013-03-13 14:18:31,418 INFO  [WSIAdapterCoap.java:452] - Sent Request: CON, GET, MsgId: 50955, #Options: 1
+2013-03-13 14:18:31,420 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50955, #Options: 1
+2013-03-13 14:18:31,491 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:31,491 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50955
+2013-03-13 14:18:31,492 INFO  [WSIAdapterCoap.java:503] - Content Type: link_format
+2013-03-13 14:18:31,492 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:31,495 INFO  [WSIAdapterCoap.java:473] - Sent Request: CON, GET, MsgId: 50956, #Options: 1
+2013-03-13 14:18:31,496 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50956, #Options: 1
+2013-03-13 14:18:31,787 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:31,788 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50956
+2013-03-13 14:18:31,789 INFO  [WSIAdapterCoap.java:503] - Content Type: octet_stream
+2013-03-13 14:18:31,790 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:31,792 INFO  [WSIAdapterCoap.java:473] - Sent Request: CON, GET, MsgId: 50957, #Options: 1
+2013-03-13 14:18:31,794 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 50957, #Options: 1
+2013-03-13 14:18:31,933 INFO  [WSIAdapterCoap.java:501] - Received response code: Content_205
+2013-03-13 14:18:31,933 INFO  [WSIAdapterCoap.java:502] - CoAP Message ID: 50957
+2013-03-13 14:18:31,934 INFO  [WSIAdapterCoap.java:503] - Content Type: octet_stream
+2013-03-13 14:18:31,934 INFO  [WSIAdapterCoap.java:504] - CoAP Server address: localhost/127.0.0.1
+2013-03-13 14:18:35,464 INFO  [WSIAdapterCoap.java:363] - Sent Request: 11282#fec0:0:0:2::2#1#wkc
+2013-03-13 14:18:35,465 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11282#fec0:0:0:2::2#1#wkc - from: 127.0.0.1
+2013-03-13 14:18:37,553 INFO  [ProxyUdpForwarder.java:94] - DTN message: 11282#2#2#wkc*st*sh - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:37,555 INFO  [DTNResponder.java:39] - DTN response: 11282#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-13 14:18:37,555 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 11282
+2013-03-13 14:18:37,555 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:37,556 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:37,556 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: wkc*st*sh
+2013-03-13 14:18:37,557 INFO  [WSIAdapterCoap.java:384] - Sent Request: 17634#fec0:0:0:2::2#1#st
+2013-03-13 14:18:37,557 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17634#fec0:0:0:2::2#1#st - from: 127.0.0.1
+2013-03-13 14:18:41,460 INFO  [ProxyUdpForwarder.java:94] - DTN message: 17634#2#2#st*7355 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:41,462 INFO  [DTNResponder.java:39] - DTN response: 17634#fec0:0:0:2::2#2#st*7355
+2013-03-13 14:18:41,462 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 17634
+2013-03-13 14:18:41,463 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:41,463 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:41,463 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: st*7355
+2013-03-13 14:18:41,464 INFO  [WSIAdapterCoap.java:384] - Sent Request: 53589#fec0:0:0:2::2#1#sh
+2013-03-13 14:18:41,465 INFO  [ProxyUdpForwarder.java:94] - DTN message: 53589#fec0:0:0:2::2#1#sh - from: 127.0.0.1
+2013-03-13 14:18:45,368 INFO  [ProxyUdpForwarder.java:94] - DTN message: 53589#2#2#sh*1024 - from: fec0:0:0:2:0:0:0:0
+2013-03-13 14:18:45,369 INFO  [DTNResponder.java:39] - DTN response: 53589#fec0:0:0:2::2#2#sh*1024
+2013-03-13 14:18:45,370 INFO  [WSIAdapterCoap.java:303] - DTN Packet ID: 53589
+2013-03-13 14:18:45,370 INFO  [WSIAdapterCoap.java:304] - DTN Server ID: fec0:0:0:2::2
+2013-03-13 14:18:45,370 INFO  [WSIAdapterCoap.java:305] - DTN Packet Type: 2
+2013-03-13 14:18:45,371 INFO  [WSIAdapterCoap.java:306] - DTN Packet Body: sh*1024

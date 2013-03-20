@@ -1,0 +1,7 @@
+VITRO WLAB WSI Software
+
+Implementation: CoAP-08 and DTN
+
+Proxy Network fec0:0:0:1:: --> sh wsi_wsn1_wlab.sh
+Proxy Network fec0:0:0:2:: --> sh wsi_wsn2_wlab.sh
+Test Requests and Responses --> sh test_client_coap.sh

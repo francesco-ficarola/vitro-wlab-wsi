@@ -1,0 +1,3 @@
+2012-06-07 16:14:22,604 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62277, #Options: 1
+2012-06-07 16:14:25,516 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62278, #Options: 1
+2012-06-07 16:14:26,345 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 62279, #Options: 1

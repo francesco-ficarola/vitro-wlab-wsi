@@ -1,0 +1,18 @@
+2013-02-28 16:24:41,952 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 4997, #Options: 1
+2013-02-28 16:24:41,959 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 4997, #Options: 1
+2013-02-28 16:24:42,164 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-02-28 16:24:42,165 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 4997
+2013-02-28 16:24:42,169 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
+2013-02-28 16:24:42,170 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-02-28 16:24:42,180 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 4998, #Options: 1
+2013-02-28 16:24:42,180 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 4998, #Options: 1
+2013-02-28 16:24:42,253 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-02-28 16:24:42,253 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 4998
+2013-02-28 16:24:42,254 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2013-02-28 16:24:42,254 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
+2013-02-28 16:24:42,256 INFO  [WSIAdapterCoap.java:225] - Sent Request: CON, GET, MsgId: 4999, #Options: 1
+2013-02-28 16:24:42,257 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 4999, #Options: 1
+2013-02-28 16:24:42,321 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
+2013-02-28 16:24:42,321 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 4999
+2013-02-28 16:24:42,321 INFO  [WSIAdapterCoap.java:255] - Content Type: octet_stream
+2013-02-28 16:24:42,321 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1

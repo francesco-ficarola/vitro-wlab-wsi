@@ -1,0 +1,25 @@
+2013-03-12 00:01:43,310 INFO  [WSIAdapterCoap.java:94] - Getting available nodes...
+2013-03-12 00:01:43,459 INFO  [WSIAdapterCoap.java:122] - Quering wiserver.dis.uniroma1.it
+2013-03-12 00:01:48,465 WARN  [WSIAdapterCoap.java:132] - Receive timed out
+2013-03-12 00:01:48,466 INFO  [WSIAdapterCoap.java:122] - Quering localhost
+2013-03-12 00:01:53,821 INFO  [WSIAdapterCoap.java:144] - Node: fec0::2:0:0:0:2
+2013-03-12 00:01:53,823 INFO  [WSIAdapterCoap.java:144] - Node: fec0::2:0:0:0:1
+2013-03-12 00:01:53,829 INFO  [WSIAdapterCoap.java:148] - No other nodes from localhost
+2013-03-12 00:01:53,835 INFO  [WSIAdapterCoap.java:375] - Sent Request: 20610#fec0:0:0:2::2#10#wkc
+2013-03-12 00:01:56,756 INFO  [DTNResponder.java:44] - DTN response: 20610#fec0:0:0:2::2#2#wkc*st*sh
+2013-03-12 00:01:56,756 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 20610
+2013-03-12 00:01:56,757 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-12 00:01:56,757 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-12 00:01:56,758 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: wkc*st*sh
+2013-03-12 00:01:56,769 INFO  [WSIAdapterCoap.java:396] - Sent Request: 42288#fec0:0:0:2::2#10#st
+2013-03-12 00:01:59,685 INFO  [DTNResponder.java:44] - DTN response: 42288#fec0:0:0:2::2#20#st*7174
+2013-03-12 00:01:59,685 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 42288
+2013-03-12 00:01:59,691 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-12 00:01:59,692 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 20
+2013-03-12 00:01:59,692 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: st*7174
+2013-03-12 00:01:59,695 INFO  [WSIAdapterCoap.java:396] - Sent Request: 55299#fec0:0:0:2::2#10#sh
+2013-03-12 00:02:05,545 INFO  [DTNResponder.java:44] - DTN response: 55299#fec0:0:0:2::2#2#sh*1256
+2013-03-12 00:02:05,545 INFO  [WSIAdapterCoap.java:308] - DTN Packet ID: 55299
+2013-03-12 00:02:05,546 INFO  [WSIAdapterCoap.java:309] - DTN Server ID: fec0:0:0:2::2
+2013-03-12 00:02:05,546 INFO  [WSIAdapterCoap.java:310] - DTN Packet Type: 2
+2013-03-12 00:02:05,546 INFO  [WSIAdapterCoap.java:311] - DTN Packet Body: sh*1256

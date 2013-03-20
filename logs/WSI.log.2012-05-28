@@ -1,0 +1,194 @@
+2012-05-28 11:25:03,238 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 31209, #Options: 1
+2012-05-28 11:25:46,139 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 11:25:46,140 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 11:29:17,703 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 12592, #Options: 1
+2012-05-28 11:29:25,965 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 12593, #Options: 1
+2012-05-28 11:29:26,094 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 12594, #Options: 1
+2012-05-28 11:29:26,217 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 12595, #Options: 1
+2012-05-28 11:45:38,592 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 23149, #Options: 1
+2012-05-28 11:45:40,820 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 23150, #Options: 1
+2012-05-28 11:45:40,935 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 23151, #Options: 1
+2012-05-28 11:45:41,034 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 23152, #Options: 1
+2012-05-28 12:28:58,651 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14269, #Options: 1
+2012-05-28 12:28:58,937 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14270, #Options: 1
+2012-05-28 12:28:59,039 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14271, #Options: 1
+2012-05-28 12:28:59,156 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14272, #Options: 1
+2012-05-28 12:33:44,491 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14273, #Options: 1
+2012-05-28 12:34:22,708 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 12:34:22,709 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 12:34:51,444 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14274, #Options: 1
+2012-05-28 12:35:11,455 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14275, #Options: 1
+2012-05-28 12:35:11,783 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14276, #Options: 1
+2012-05-28 12:35:12,113 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14277, #Options: 1
+2012-05-28 12:41:29,627 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14279, #Options: 1
+2012-05-28 12:41:30,102 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14280, #Options: 1
+2012-05-28 12:41:30,444 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14281, #Options: 1
+2012-05-28 12:41:30,798 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14282, #Options: 1
+2012-05-28 12:47:24,974 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10160, #Options: 1
+2012-05-28 12:47:31,871 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10161, #Options: 1
+2012-05-28 12:47:32,121 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10162, #Options: 1
+2012-05-28 12:47:32,233 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10163, #Options: 1
+2012-05-28 12:49:22,140 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10168, #Options: 1
+2012-05-28 12:49:25,139 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10169, #Options: 1
+2012-05-28 12:51:22,111 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10170, #Options: 1
+2012-05-28 12:52:24,219 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10171, #Options: 1
+2012-05-28 12:52:40,058 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10172, #Options: 1
+2012-05-28 12:54:22,228 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10173, #Options: 1
+2012-05-28 12:54:47,693 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10174, #Options: 1
+2012-05-28 12:55:29,344 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 12:55:29,350 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 12:55:31,608 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10175, #Options: 1
+2012-05-28 12:55:51,999 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10176, #Options: 1
+2012-05-28 12:57:24,462 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10177, #Options: 1
+2012-05-28 12:59:39,347 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10178, #Options: 1
+2012-05-28 12:59:39,514 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10179, #Options: 1
+2012-05-28 13:00:25,867 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10180, #Options: 1
+2012-05-28 13:01:09,992 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:01:09,992 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:02:39,453 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10181, #Options: 1
+2012-05-28 13:02:39,622 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10182, #Options: 1
+2012-05-28 13:03:25,981 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10183, #Options: 1
+2012-05-28 13:05:39,525 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10184, #Options: 1
+2012-05-28 13:05:39,690 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10185, #Options: 1
+2012-05-28 13:06:26,049 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10186, #Options: 1
+2012-05-28 13:07:03,763 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:07:03,763 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:08:39,609 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10187, #Options: 1
+2012-05-28 13:08:39,774 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10188, #Options: 1
+2012-05-28 13:09:26,132 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10189, #Options: 1
+2012-05-28 13:09:57,498 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:09:57,498 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:11:39,697 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10190, #Options: 1
+2012-05-28 13:11:40,323 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10191, #Options: 1
+2012-05-28 13:12:26,223 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10192, #Options: 1
+2012-05-28 13:13:07,511 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:13:07,512 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:14:39,907 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10193, #Options: 1
+2012-05-28 13:14:40,083 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10194, #Options: 1
+2012-05-28 13:15:26,303 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10195, #Options: 1
+2012-05-28 13:15:56,769 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:15:56,769 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:17:39,862 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10196, #Options: 1
+2012-05-28 13:17:40,027 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10197, #Options: 1
+2012-05-28 13:18:26,387 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10198, #Options: 1
+2012-05-28 13:20:39,990 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10199, #Options: 1
+2012-05-28 13:20:40,241 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10200, #Options: 1
+2012-05-28 13:21:26,458 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10201, #Options: 1
+2012-05-28 13:23:40,225 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10202, #Options: 1
+2012-05-28 13:23:40,391 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10203, #Options: 1
+2012-05-28 13:24:26,532 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10204, #Options: 1
+2012-05-28 13:26:40,207 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10205, #Options: 1
+2012-05-28 13:26:40,384 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10206, #Options: 1
+2012-05-28 13:27:26,613 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10207, #Options: 1
+2012-05-28 13:27:59,257 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 13:27:59,258 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 13:29:40,164 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10208, #Options: 1
+2012-05-28 13:29:40,333 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10209, #Options: 1
+2012-05-28 13:30:26,693 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10210, #Options: 1
+2012-05-28 13:32:40,249 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10211, #Options: 1
+2012-05-28 13:32:40,426 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10212, #Options: 1
+2012-05-28 13:33:26,768 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10213, #Options: 1
+2012-05-28 13:34:09,499 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10214, #Options: 1
+2012-05-28 13:34:09,588 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10215, #Options: 1
+2012-05-28 13:34:09,728 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10216, #Options: 1
+2012-05-28 13:34:09,824 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10217, #Options: 1
+2012-05-28 13:39:36,940 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10222, #Options: 1
+2012-05-28 13:39:37,557 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10223, #Options: 1
+2012-05-28 13:39:37,650 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10224, #Options: 1
+2012-05-28 13:39:37,750 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 10225, #Options: 1
+2012-05-28 14:16:28,655 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 61069, #Options: 1
+2012-05-28 14:16:29,121 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 61070, #Options: 1
+2012-05-28 14:16:29,216 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 61071, #Options: 1
+2012-05-28 14:16:29,317 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 61072, #Options: 1
+2012-05-28 14:42:37,331 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14290, #Options: 1
+2012-05-28 14:42:37,867 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14291, #Options: 1
+2012-05-28 14:42:38,040 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14292, #Options: 1
+2012-05-28 14:42:38,220 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14293, #Options: 1
+2012-05-28 14:53:53,747 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 6786, #Options: 1
+2012-05-28 14:53:54,472 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 6787, #Options: 1
+2012-05-28 14:53:57,056 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 6788, #Options: 1
+2012-05-28 14:53:57,171 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 6789, #Options: 1
+2012-05-28 14:59:32,142 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 44403, #Options: 1
+2012-05-28 15:00:12,138 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 15:00:12,139 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 15:26:10,885 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5766, #Options: 1
+2012-05-28 15:26:11,037 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5767, #Options: 1
+2012-05-28 15:26:11,574 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5768, #Options: 1
+2012-05-28 15:26:11,706 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5769, #Options: 1
+2012-05-28 15:34:45,077 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5770, #Options: 1
+2012-05-28 15:35:22,286 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 15:35:22,287 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 15:35:48,267 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5771, #Options: 1
+2012-05-28 15:36:19,503 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 49086, #Options: 1
+2012-05-28 15:36:26,891 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 15:36:26,891 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 15:36:27,169 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 49087, #Options: 1
+2012-05-28 15:36:27,649 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 49088, #Options: 1
+2012-05-28 15:36:48,824 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5772, #Options: 1
+2012-05-28 15:36:49,124 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5773, #Options: 1
+2012-05-28 15:36:49,306 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5774, #Options: 1
+2012-05-28 15:37:40,140 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5775, #Options: 1
+2012-05-28 15:37:40,356 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5776, #Options: 1
+2012-05-28 15:37:40,522 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5777, #Options: 1
+2012-05-28 15:58:22,839 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 11256, #Options: 1
+2012-05-28 15:59:02,516 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 15:59:02,516 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 16:06:17,501 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14103, #Options: 1
+2012-05-28 16:06:53,268 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 16:06:53,269 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 16:07:02,930 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14104, #Options: 1
+2012-05-28 16:07:03,164 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14105, #Options: 1
+2012-05-28 16:07:06,306 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14106, #Options: 1
+2012-05-28 16:07:29,366 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14107, #Options: 1
+2012-05-28 16:08:09,563 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 16:08:09,563 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 16:08:14,256 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14108, #Options: 1
+2012-05-28 16:08:22,144 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14109, #Options: 1
+2012-05-28 16:08:30,196 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14110, #Options: 1
+2012-05-28 16:08:39,464 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 14111, #Options: 1
+2012-05-28 16:14:20,503 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5778, #Options: 1
+2012-05-28 16:14:21,027 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5779, #Options: 1
+2012-05-28 16:14:21,202 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5780, #Options: 1
+2012-05-28 16:16:56,468 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5781, #Options: 1
+2012-05-28 16:16:59,498 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5782, #Options: 1
+2012-05-28 16:16:59,675 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 5783, #Options: 1
+2012-05-28 16:18:16,501 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 21359, #Options: 1
+2012-05-28 16:18:16,728 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 21360, #Options: 1
+2012-05-28 16:18:16,860 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 21361, #Options: 1
+2012-05-28 16:18:16,961 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 21362, #Options: 1
+2012-05-28 16:20:45,159 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 55496, #Options: 1
+2012-05-28 16:20:45,525 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 55497, #Options: 1
+2012-05-28 16:20:45,622 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 55498, #Options: 1
+2012-05-28 16:20:45,720 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 55499, #Options: 1
+2012-05-28 17:55:05,740 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 42209, #Options: 1
+2012-05-28 17:55:05,867 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 42210, #Options: 1
+2012-05-28 17:55:14,659 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 42211, #Options: 1
+2012-05-28 17:55:17,113 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48316, #Options: 1
+2012-05-28 17:55:17,224 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48317, #Options: 1
+2012-05-28 17:55:17,345 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48318, #Options: 1
+2012-05-28 17:55:17,465 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48319, #Options: 1
+2012-05-28 17:57:30,186 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48320, #Options: 1
+2012-05-28 17:58:15,199 ERROR [CoapClientProxy.java:173] - Coap Client Connection failed!
+2012-05-28 17:58:15,200 WARN  [CoapServerProxy.java:48] - The response is null!
+2012-05-28 17:58:38,986 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48321, #Options: 1
+2012-05-28 17:58:39,308 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48322, #Options: 1
+2012-05-28 17:58:39,619 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 48323, #Options: 1
+2012-05-28 18:00:12,377 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18000, #Options: 1
+2012-05-28 18:00:21,559 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18001, #Options: 1
+2012-05-28 18:00:21,657 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18002, #Options: 1
+2012-05-28 18:00:21,762 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18003, #Options: 1
+2012-05-28 18:01:04,221 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18004, #Options: 1
+2012-05-28 18:01:07,191 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18005, #Options: 1
+2012-05-28 18:01:07,621 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 18006, #Options: 1
+2012-05-28 18:04:19,115 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47781, #Options: 1
+2012-05-28 18:04:21,530 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47782, #Options: 1
+2012-05-28 18:04:21,980 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47783, #Options: 1
+2012-05-28 18:04:24,793 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47784, #Options: 1
+2012-05-28 18:04:24,900 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47785, #Options: 1
+2012-05-28 18:04:25,345 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47786, #Options: 1
+2012-05-28 18:04:26,725 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47787, #Options: 1
+2012-05-28 18:04:26,828 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47788, #Options: 1
+2012-05-28 18:04:27,150 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47789, #Options: 1
+2012-05-28 18:04:28,788 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47790, #Options: 1
+2012-05-28 18:04:36,922 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47791, #Options: 1
+2012-05-28 18:04:40,071 INFO  [CoapServerProxy.java:80] - Accept connection: CON, GET, MsgId: 47792, #Options: 1
