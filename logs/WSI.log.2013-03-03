@@ -1,6 +1,0 @@
-2013-03-04 11:52:34,338 INFO  [WSIAdapterCoap.java:204] - Sent Request: CON, GET, MsgId: 62411, #Options: 1
-2013-03-04 11:52:34,575 INFO  [WSIAdapterCoap.java:253] - Received response code: Content_205
-2013-03-04 11:52:34,576 INFO  [WSIAdapterCoap.java:254] - CoAP Message ID: 62411
-2013-03-04 11:52:34,620 INFO  [WSIAdapterCoap.java:255] - Content Type: link_format
-2013-03-04 11:52:34,621 INFO  [WSIAdapterCoap.java:256] - CoAP Server address: localhost/127.0.0.1
-2013-03-04 11:52:34,621 WARN  [WSIAdapterCoap.java:285] - The payload is empty.
