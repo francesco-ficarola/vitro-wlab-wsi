@@ -486,10 +486,10 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 	private String getProxyAddress(Node node) {
 		String nodeIP = node.getId();
 		
-		if(nodeIP.contains(Network.WLAB_OFFICE_IPV6_PREFIX)) {
+		if(nodeIP.contains(Network.WLAB_OFFICE_IPV6_PREFIX) || nodeIP.contains(Network.WLAB_OFFICE_IPV6_PREFIX_SHORT)) {
 			return Network.WLAB_OFFICE_PROXY_ADDRESS;
 		} else
-		if(nodeIP.contains(Network.WLAB_LAB_IPV6_PREFIX)) {
+		if(nodeIP.contains(Network.WLAB_LAB_IPV6_PREFIX) || nodeIP.contains(Network.WLAB_LAB_IPV6_PREFIX_SHORT)) {
 			return Network.WLAB_LAB_PROXY_ADDRESS;
 		}
 		

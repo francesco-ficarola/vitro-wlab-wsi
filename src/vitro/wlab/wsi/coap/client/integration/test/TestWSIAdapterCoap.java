@@ -53,16 +53,16 @@ public class TestWSIAdapterCoap extends Thread {
 					
 					countCoapDtn++;
 					
-//					System.out.println("*** Getting Available Nodes\n");
-//					try {
-//						List<Node> list = wsi.getAvailableNodeList();
-//						System.out.println("\n*** Number of nodes: " + list.size());
-//						for(int i=0; i<list.size(); i++) {
-//							System.out.println("Node: " + list.get(i).getId());
-//						}
-//					} catch (WSIAdapterException e) {
-//						e.printStackTrace();
-//					}
+					System.out.println("*** Getting Available Nodes\n");
+					try {
+						List<Node> list = wsi.getAvailableNodeList();
+						System.out.println("\n*** Number of nodes: " + list.size());
+						for(int i=0; i<list.size(); i++) {
+							System.out.println("Node: " + list.get(i).getId());
+						}
+					} catch (WSIAdapterException e) {
+						e.printStackTrace();
+					}
 					
 					Node node1 = new Node(Network.WLAB_OFFICE_IPV6_PREFIX + "::" + nodeID);
 //					Node node1 = new Node(Network.WLAB_LAB_IPV6_PREFIX + "::" + nodeID);
