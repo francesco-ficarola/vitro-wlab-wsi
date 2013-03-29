@@ -230,18 +230,18 @@ public class ProxyUdpForwarder implements Runnable {
 			clientSocket = new DatagramSocket();
 			
 			String pppNodeIP = "";
-			if(elements.get(1).contains(Network.WLAB_LAB_IPV6_PREFIX)) {
+			if(elements.get(1).contains(Network.WLAB_LAB_IPV6_PREFIX)
+			|| elements.get(1).contains(Network.WLAB_LAB_IPV6_PREFIX_SHORT)) {
 				pppNodeIP = Network.WLAB_LAB_IPV6_PREFIX + "::" + Network.PPP_NODE_ID;
 			} else
-			if(elements.get(1).contains(Network.WLAB_OFFICE_IPV6_PREFIX)) {
+			if(elements.get(1).contains(Network.WLAB_OFFICE_IPV6_PREFIX)
+			|| elements.get(1).contains(Network.WLAB_OFFICE_IPV6_PREFIX_SHORT)) {
 				pppNodeIP = Network.WLAB_OFFICE_IPV6_PREFIX + "::" + Network.PPP_NODE_ID;
 			}
 			
-			
+			/** Messages from node gateway to VGW */
 			if(fromIP.equals(InetAddress.getByName(Network.WLAB_LAB_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))
-			|| fromIP.equals(InetAddress.getByName(Network.WLAB_LAB_IPV6_PREFIX_SHORT + ":0:0:0:" + Network.PPP_NODE_ID))
-			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))
-			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX_SHORT + ":0:0:0:" + Network.PPP_NODE_ID))) {
+			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))) {
 				
 				String dtnString = elements.get(0) + "#" + nodeIdToIPv6(elements.get(1), fromIP.getHostAddress()) + "#" + elements.get(2) + "#" + elements.get(3);						
 				byte[] sendData = new byte[Constants.DTN_MESSAGE_SIZE];
@@ -253,6 +253,8 @@ public class ProxyUdpForwarder implements Runnable {
 				clientSocket.send(sendPacket);
 				
 			} else
+				
+			/** Messages from VGW to node gateway */
 			if(!pppNodeIP.equals("")) {
 				String dtnString = elements.get(0) + "#" + ipv6ToNodeID(elements.get(1)) + "#" + elements.get(2) + "#" + elements.get(3);
 				byte[] sendData = new byte[Constants.DTN_MESSAGE_SIZE];
