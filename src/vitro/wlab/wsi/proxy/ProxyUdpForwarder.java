@@ -239,7 +239,9 @@ public class ProxyUdpForwarder implements Runnable {
 			
 			
 			if(fromIP.equals(InetAddress.getByName(Network.WLAB_LAB_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))
-			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))) {
+			|| fromIP.equals(InetAddress.getByName(Network.WLAB_LAB_IPV6_PREFIX_SHORT + ":0:0:0:" + Network.PPP_NODE_ID))
+			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX + "::" + Network.PPP_NODE_ID))
+			|| fromIP.equals(InetAddress.getByName(Network.WLAB_OFFICE_IPV6_PREFIX_SHORT + ":0:0:0:" + Network.PPP_NODE_ID))) {
 				
 				String dtnString = elements.get(0) + "#" + nodeIdToIPv6(elements.get(1), fromIP.getHostAddress()) + "#" + elements.get(2) + "#" + elements.get(3);						
 				byte[] sendData = new byte[Constants.DTN_MESSAGE_SIZE];
