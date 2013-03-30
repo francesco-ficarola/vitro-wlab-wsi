@@ -15,6 +15,7 @@ import java.util.Observer;
 import java.util.Random;
 import java.util.StringTokenizer;
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -182,11 +183,12 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 			
 			if(isDtnEnabled) {
 				dtnResourcesRequest(node);
+				signal.await(5, TimeUnit.MINUTES);
 			} else {
 				coapResourcesRequest(node);
+				signal.await();
 			}
 			
-			signal.await();
 
 			if(this.resourceList.size() > 0) {
 				
@@ -227,11 +229,12 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 			
 			if(isDtnEnabled) {
 				dtnObservationRequest(node, resource);
+				signal.await(5, TimeUnit.MINUTES);
 			} else {
 				coapObservationRequest(node, resource);
+				signal.await();
 			}
 			
-			signal.await();
 			
 			if(resourceValue != null) {
 				
