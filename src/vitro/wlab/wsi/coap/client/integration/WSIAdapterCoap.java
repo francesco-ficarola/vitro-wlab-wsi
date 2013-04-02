@@ -118,7 +118,7 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 				
 				boolean otherPackets = false;
 				
-				serverSocket.setSoTimeout(5000);
+				serverSocket.setSoTimeout(Constants.PROXY_RESPONSE_TIMEOUT);
 				logger.info("Quering " + hostProxyString);
 				try {
 					byte[] bufAck = new byte[10];
@@ -183,7 +183,7 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 			
 			if(isDtnEnabled) {
 				dtnResourcesRequest(node);
-				signal.await(5, TimeUnit.MINUTES);
+				signal.await(Constants.DTN_REQUEST_TIMEOUT, TimeUnit.MINUTES);
 			} else {
 				coapResourcesRequest(node);
 				signal.await();
@@ -229,7 +229,7 @@ public class WSIAdapterCoap implements WSIAdapter, CoapClient, Observer {
 			
 			if(isDtnEnabled) {
 				dtnObservationRequest(node, resource);
-				signal.await(5, TimeUnit.MINUTES);
+				signal.await(Constants.DTN_REQUEST_TIMEOUT, TimeUnit.MINUTES);
 			} else {
 				coapObservationRequest(node, resource);
 				signal.await();
