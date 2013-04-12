@@ -60,9 +60,17 @@ public class ProxyUdpForwarder implements Runnable {
 
 	@Override
 	public void run() {
-		try{
+		try {
 			serverSocket = new DatagramSocket(Constants.PROXY_UDPFORWARDER_PORT);
-			while(true) {
+		} catch (SocketException e) {
+			logger.error(e.getMessage(), e);
+			if(serverSocket != null) {
+				serverSocket.close();
+			}
+		}
+		
+		while(true) {
+			try {
 				byte[] receiveData = new byte[Constants.DTN_MESSAGE_SIZE];
 				DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
 				serverSocket.receive(receivePacket);
@@ -94,15 +102,11 @@ public class ProxyUdpForwarder implements Runnable {
 					logger.info("DTN message: " + msgString + " - from: " + fromIPString);
 					manageDtnMessages(msgString, fromIPString, fromIP);
 				}
-			}
-		} catch (IOException e) {
-			logger.error(e.getMessage());
-		} finally {
-			if(serverSocket != null) {
-				serverSocket.close();
-			}
-			if(clientSocket != null) {
-				clientSocket.close();
+			} catch (IOException e) {
+				logger.error(e.getMessage());
+				if(clientSocket != null) {
+					clientSocket.close();
+				}
 			}
 		}
 	}
